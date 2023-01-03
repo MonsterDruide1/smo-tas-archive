@@ -13,7 +13,8 @@
     "fuse.js": "^6.6.2",
     "next": "13.0.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "use-fit-text": "^2.4.0"
   },
   "devDependencies": {
     "@types/node": "18.11.9",

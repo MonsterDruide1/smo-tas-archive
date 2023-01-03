@@ -1,4 +1,5 @@
-import Router from 'next/router';
+import Router from 'next/router'
+import useFitText from "use-fit-text"
 import TasData from "../../lib/data/TasData"
 import TasEntry from "../../lib/data/TasEntry"
 import Head from 'next/head'
@@ -16,6 +17,7 @@ import AuthorEntry from '../../lib/data/AuthorEntry';
 
 export default function TAS({ entry }: {entry: TasEntry}) {
     let title = `TAS-Segment archive - ${entry.name}`
+    const { fontSize, ref } = useFitText({maxFontSize: 350});
 
     function filterBy(text: string, kingdom: KingdomType | null, author: AuthorEntry | null) {
         window.localStorage.setItem('filter', JSON.stringify(new Filter(text, kingdom, author)));
@@ -26,7 +28,7 @@ export default function TAS({ entry }: {entry: TasEntry}) {
         <Layout title={title} navbar_current={`Details: ${entry.name}`}>
             <div className={styles.content}>
 
-                <p className={styles.name}>{entry.name}</p>
+                <p ref={ref} style={{ fontSize }} className={styles.name}>{entry.name}</p>
 
                 <div className={styles.video_pane}>
                     <div className={styles.video}>
