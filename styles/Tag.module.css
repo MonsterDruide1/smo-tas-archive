@@ -1,0 +1,26 @@
+.tag {
+    z-index: 1;
+    flex: 1 0 auto;
+    color: #fff;
+    background-color: #000;
+    border-radius: 4px;
+    padding: 0.25em 0.5em;
+    font-size: 0.8em;
+    height: 80%;
+    font-weight: 600;
+
+    display: inline-flex;
+    align-items: center;
+}
+
+.kingdomTag img {
+    max-height: 80%;
+}
+
+.authorTagImg {
+    margin-right: 5px;
+    max-height: 80%;
+}
+.authorTag p {
+    margin: 0px;
+}

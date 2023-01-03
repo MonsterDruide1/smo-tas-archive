@@ -1,0 +1,99 @@
+.item {
+    max-height: 200px;
+    background-color: #222222;
+    border-radius: 25px;
+    padding: 20px;
+    position: relative;
+    margin: 10px;
+}
+.item::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.alltext {
+    overflow: hidden;
+}
+
+.toprow {
+    width: 100%;
+    height: 70%;
+
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.bottomrow {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.overlay_link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: block;
+    z-index: 1;
+}
+
+.thumbnail {
+    height: 120px;
+    width: 214px;
+    object-fit: cover;
+    float: left;
+    margin-right: 20px;
+}
+
+.name {
+    margin: 0px;
+    font-size: xxx-large;
+    font-weight: 700;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    flex: 1 1 auto;
+}
+
+.rightside {
+    flex: 0 0 auto;
+}
+
+.version_wrapper {
+}
+.version {
+    margin-top: 0px;
+    display: inline;
+}
+.version_helper {
+    color: #aaaaaa;
+    font-size: x-small;
+    display:inline;
+}
+
+.time_wrapper {
+}
+.time {
+    margin: 0px;
+    display: inline;
+}
+.time_helper {
+    color: #aaaaaa;
+    font-size: x-small;
+    display:inline;
+}
+
+.kingdom {
+    flex: 1 0 auto;
+}
+
+.author {
+    flex: 1 1 auto;
+}

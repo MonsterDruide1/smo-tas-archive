@@ -1,0 +1,87 @@
+.item {
+    background-color: #222222;
+    border-radius: 25px;
+    padding: 20px;
+    position: relative;
+    margin: 10px;
+}
+.item::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.overlay_link {
+    position: absolute;
+    margin: -20px;
+    height: 100%;
+    width: 100%;
+    display: block;
+    z-index: 1;
+}
+
+.middlerow {
+    position: relative;
+}
+.middlerow::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.bottomrow {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.rightside {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.thumbnail {
+    max-width: 100%;
+    padding-right: 80px;
+    float: left;
+}
+
+.name {
+    margin: 0px;
+    font-size: x-large;
+    font-weight: 700;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-bottom: 10px;
+}
+
+.version {
+    margin-top: 0px;
+}
+.version_helper {
+    color: #aaaaaa;
+    font-size: x-small;
+    display:inline;
+    margin: 0px;
+}
+
+.time {
+    margin-top: 0px;
+}
+.time_helper {
+    color: #aaaaaa;
+    font-size: x-small;
+    display:inline;
+    margin: 0px;
+}
+
+.kingdom {
+    flex: 1 0 auto;
+}
+
+.author {
+    flex: 1 1 auto;
+}

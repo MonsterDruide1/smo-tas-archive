@@ -1,0 +1,28 @@
+.item {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+}
+.item::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.inner_item {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    max-width: 100%;
+}
+
+.thumbnail {
+    max-height: 32px;
+    float: left;
+    margin-right: 10px;
+}
+
+.name {
+    margin: 0px;
+}

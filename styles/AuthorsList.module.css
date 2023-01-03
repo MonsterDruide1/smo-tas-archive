@@ -1,0 +1,38 @@
+.item {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: fit-content;
+}
+.item::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.inner_item {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    max-width: 100%;
+}
+
+.thumbnails {
+    width: fit-content;
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.thumbnail {
+    max-width: 32px;
+    max-height: 32px;
+}
+
+.names {
+    margin: 0px;
+    margin-right: 5px;
+    text-align: end;
+    width: fit-content;
+}
