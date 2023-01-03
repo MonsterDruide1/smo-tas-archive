@@ -125,7 +125,7 @@
        "video": "https://youtu.be/KbZgDP7OJGo",
        "thumbnail": "https://i.ytimg.com/vi/KbZgDP7OJGo/mqdefault.jpg",
        "script": "??",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20221224"
@@ -141,7 +141,7 @@
        "video": "https://youtu.be/reBPJjUROGk",
        "thumbnail": "https://i.ytimg.com/vi/reBPJjUROGk/mqdefault.jpg",
        "script": "https://drive.google.com/file/d/12cH_Glz6vqr0Z7dxTeaoxCbg4ZdraMMf/view?usp=sharing",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20221223"
@@ -285,7 +285,7 @@
        "video": "https://youtu.be/JZt2h53juXo",
        "thumbnail": "https://i.ytimg.com/vi/JZt2h53juXo/sddefault.jpg",
        "script": "https://drive.google.com/drive/folders/1GinlXbm8v7yMWApCXqryoX5Z4vC-dN6d?usp=sharing",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20220819"
@@ -301,7 +301,7 @@
        "video": "https://www.youtube.com/watch?v=hNrIMGuJ0yQ",
        "thumbnail": "https://i.ytimg.com/vi/hNrIMGuJ0yQ/mqdefault.jpg",
        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1007323147940409384/employeesonlyskewdive.txt",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20220811"
@@ -317,7 +317,7 @@
        "video": "https://youtu.be/Ro9C1o9lzYE",
        "thumbnail": "https://i.ytimg.com/vi/Ro9C1o9lzYE/mqdefault.jpg",
        "script": "https://drive.google.com/file/d/1wHzKDm33_qv19mikSCyZ2jlmd6fEFOH4/view?usp=sharing",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20220810"
@@ -333,7 +333,7 @@
        "video": "https://youtu.be/5AINHPknn7k",
        "thumbnail": "https://i.ytimg.com/vi/5AINHPknn7k/mqdefault.jpg",
        "script": "https://drive.google.com/file/d/1x8g51KWhPIsDuK9VaEs99sTZfvztgyr8/view?usp=sharing",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20220719"
@@ -349,7 +349,7 @@
        "video": "https://youtu.be/NYI_jbH4P_E",
        "thumbnail": "https://i.ytimg.com/vi/NYI_jbH4P_E/mqdefault.jpg",
        "script": "https://cdn.discordapp.com/attachments/829263133776412672/996954098739986464/ShardsRoomtoLuncheonSlotsV3.txt",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20220714"
@@ -365,7 +365,7 @@
        "video": "https://youtu.be/DFQr94Og5tU",
        "thumbnail": "https://i.ytimg.com/vi/DFQr94Og5tU/mqdefault.jpg",
        "script": "https://cdn.discordapp.com/attachments/829263133776412672/996615368489574491/employeesonly.txt",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20220713"
@@ -381,7 +381,7 @@
        "video": "https://youtu.be/pRYv4vlaBto",
        "thumbnail": "https://i.ytimg.com/vi/pRYv4vlaBto/mqdefault.jpg",
        "script": "https://cdn.discordapp.com/attachments/829263133776412672/993743768295571456/snowshop.txt",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20220705"
@@ -1398,8 +1398,8 @@
        "video": "https://www.youtube.com/watch?v=V8QFsbCLjYI",
        "thumbnail": "https://i.ytimg.com/vi/V8QFsbCLjYI/mqdefault.jpg",
        "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016412052488716418/leftside.txt",
-       "setup": "",
-       "version": "",
+       "setup": "??",
+       "version": "??",
        "notes": "",
        "date": "20210516"
    },
@@ -1430,7 +1430,7 @@
        "video": "https://cdn.discordapp.com/attachments/829263133776412672/836792020012892240/AT-cm_1154888321.mp4",
        "thumbnail": "https://media.discordapp.net/attachments/927988891670171679/992063699730841693/unknown.png?width=320&height=180",
        "script": "https://cdn.discordapp.com/attachments/838449581879459901/838832460837814332/script1.txt",
-       "setup": "",
+       "setup": "??",
        "version": "1.0",
        "notes": "",
        "date": "20210428"
