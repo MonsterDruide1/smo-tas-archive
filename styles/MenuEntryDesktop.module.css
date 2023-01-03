@@ -4,15 +4,16 @@
     padding: 20px;
     position: relative;
     margin: 10px;
-}
-.item::after {
-    content: "";
-    clear: both;
-    display: table;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 20px;
 }
 
 .alltext {
     overflow: hidden;
+    flex: 1 1 auto;
 }
 
 .toprow {
@@ -47,8 +48,7 @@
     height: 120px;
     width: 214px;
     object-fit: cover;
-    float: left;
-    margin-right: 20px;
+    flex: 0 0 auto;
 }
 
 .name {
