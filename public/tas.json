@@ -993,7 +993,7 @@
        "script": "https://cdn.discordapp.com/attachments/829263133776412672/892852247082442852/flavien_employees_only.txt",
        "setup": "Start after leaving employees only",
        "version": "Any",
-       "notes": "/",
+       "notes": "",
        "date": "20210929"
    },
    {
@@ -1108,7 +1108,7 @@
        "script": "https://drive.google.com/file/d/1ynna7bZDhI69ItGiYa4zoK3DQiiZA7KL/view?usp=sharing",
        "setup": "Make the cutscene skip dialogue appear for the second-to-last cutscene but don't press A",
        "version": "1.3",
-       "notes": "/",
+       "notes": "",
        "date": "20210816"
    },
    {
@@ -1124,7 +1124,7 @@
        "script": "https://cdn.discordapp.com/attachments/829263133776412672/875554297675415583/script3.txt",
        "setup": "Click \"plus\" but don't skip the cutscene then run the script",
        "version": "Any",
-       "notes": "/",
+       "notes": "",
        "date": "20210813"
    },
    {
@@ -1140,7 +1140,7 @@
        "script": "https://cdn.discordapp.com/attachments/829263133776412672/874599232819068948/sphynx_to_luggage_full_TAS.txt",
        "setup": "Start after leaving sphynx room",
        "version": "1.0",
-       "notes": "/",
+       "notes": "",
        "date": "20210810"
    },
    {
@@ -1156,7 +1156,7 @@
        "script": "https://cdn.discordapp.com/attachments/829263133776412672/874779770271977512/script11.txt",
        "setup": "Start at B press prompt",
        "version": "1.3",
-       "notes": "/",
+       "notes": "",
        "date": "20210810"
    },
    {
@@ -1172,7 +1172,7 @@
        "script": "https://cdn.discordapp.com/attachments/829263133776412672/872821924944810014/Seaside_Rumble_Room_v2_-_Copy.txt",
        "setup": "Start during load",
        "version": "1.0",
-       "notes": "/",
+       "notes": "",
        "date": "20210805"
    },
    {
@@ -1237,7 +1237,7 @@
        "script": "https://drive.google.com/file/d/1ksllV_g2ZwgXkRnaFdaRxGv1AahwPbI6/view?usp=sharing",
        "setup": "Position mario under the story moon",
        "version": "Any",
-       "notes": "/",
+       "notes": "",
        "date": "20210704"
    },
    {
@@ -1400,7 +1400,7 @@
        "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016412052488716418/leftside.txt",
        "setup": "",
        "version": "",
-       "notes": "/",
+       "notes": "",
        "date": "20210516"
    },
    {
@@ -1432,7 +1432,7 @@
        "script": "https://cdn.discordapp.com/attachments/838449581879459901/838832460837814332/script1.txt",
        "setup": "",
        "version": "1.0",
-       "notes": "/",
+       "notes": "",
        "date": "20210428"
    },
    {
@@ -1450,7 +1450,7 @@
        "script": "https://pastebin.com/kQVq2PSs",
        "setup": "Go inside the wire before the mech fight but don't move",
        "version": "1.3",
-       "notes": "/",
+       "notes": "",
        "date": "20210425"
    },
    {
@@ -1674,7 +1674,7 @@
        "script": "https://pastebin.com/iDyPK0r3",
        "setup": "??",
        "version": "1.3",
-       "notes": "/",
+       "notes": "",
        "date": "20190609"
    },
    {
