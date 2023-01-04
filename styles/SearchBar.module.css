@@ -38,8 +38,9 @@
 
 .input {
     line-height: 40px; /*required for vertically centering the text*/
+    min-width: 100px;
     z-index: 1;
-    flex: 1 1 auto;
+    flex: 1 1 min-content;
     background-color: transparent;
     color: #eeeeee;
     border: none;

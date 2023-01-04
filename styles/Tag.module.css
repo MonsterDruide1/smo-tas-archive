@@ -1,5 +1,6 @@
 .tag {
-    flex: 1 0 auto;
+    flex: 1 1 min-content;
+    max-width: max-content;
     color: #fff;
     background-color: #000;
     border-radius: 4px;
@@ -7,9 +8,11 @@
     font-size: 0.8em;
     height: 80%;
     font-weight: 600;
+    gap: 5px;
+    align-items: center;
+    overflow: hidden;
 
     display: inline-flex;
-    align-items: center;
 }
 
 .kingdomTag img {
@@ -17,9 +20,10 @@
 }
 
 .authorTagImg {
-    margin-right: 5px;
     max-height: 80%;
 }
-.authorTag p {
+.authorTagText {
     margin: 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
