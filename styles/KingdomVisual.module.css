@@ -3,6 +3,8 @@
     align-items: center;
     justify-content: flex-start;
     height: 100%;
+    overflow-x: clip;
+    overflow-y: visible;
 }
 .item::after {
     content: "";
@@ -25,4 +27,6 @@
 
 .name {
     margin: 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
