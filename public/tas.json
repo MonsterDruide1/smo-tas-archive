@@ -82,1631 +82,1631 @@
         "notes": "",
         "date": "20230102"
     },
-   {
-       "id": 100,
-       "name": "Mechawiggler Fight",
-       "kingdom": "Metro",
-       "time": "??",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/wDi_tsz_NT8",
-       "thumbnail": "https://i.ytimg.com/vi/wDi_tsz_NT8/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1Ddwmly2_KBxYk52tOKEFmWQlF5Gj2TCY/view?usp=sharing",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20230102"
-   },
-   {
-       "id": 99,
-       "name": "Luncheon Timer Moon",
-       "kingdom": "Luncheon",
-       "time": "??",
-       "authors": [
-           "Mighty Owl"
-       ],
-       "video": "https://youtu.be/6hp5OdIdz9g",
-       "thumbnail": "https://i.ytimg.com/vi/6hp5OdIdz9g/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/1057732411615625337/scarecrow.txt",
-       "setup": "go LavaWorldHomeStage 1 start",
-       "version": "1.0",
-       "notes": "",
-       "date": "20221228"
-   },
-   {
-       "id": 98,
-       "name": "Snow Dram",
-       "kingdom": "Snow",
-       "time": "??",
-       "authors": [
-           "Mighty Owl"
-       ],
-       "video": "https://youtu.be/YPE7B05RVdk",
-       "thumbnail": "https://i.ytimg.com/vi/YPE7B05RVdk/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/1057732411229732945/snowdram.txt",
-       "setup": "go SnowWorldHomeStage 1 start",
-       "version": "1.0",
-       "notes": "",
-       "date": "20221228"
-   },
-   {
-       "id": 97,
-       "name": "2P - Employees Only",
-       "kingdom": "Sand",
-       "time": "??",
-       "authors": [
-           "Tiewarn"
-       ],
-       "video": "https://youtu.be/KbZgDP7OJGo",
-       "thumbnail": "https://i.ytimg.com/vi/KbZgDP7OJGo/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20221224"
-   },
-   {
-       "id": 96,
-       "name": "People Room",
-       "kingdom": "Metro",
-       "time": "??",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/reBPJjUROGk",
-       "thumbnail": "https://i.ytimg.com/vi/reBPJjUROGk/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/12cH_Glz6vqr0Z7dxTeaoxCbg4ZdraMMf/view?usp=sharing",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20221223"
-   },
-   {
-       "id": 95,
-       "name": "2P Any% - Bowser Ogre Story Moon to Shards Moon",
-       "kingdom": "Bowsers",
-       "time": "??",
-       "authors": [
-           "Orolmë"
-       ],
-       "video": "https://youtu.be/cXHhnRNH4dI",
-       "thumbnail": "https://i.ytimg.com/vi/cXHhnRNH4dI/mqdefault.jpg",
-       "script": "https://drive.google.com/drive/folders/1n5sOuZ1u5-J_7Lq8cnQJGlBwAb1G5DjG?usp=sharing",
-       "setup": "Script starts from reset",
-       "version": "1.3",
-       "notes": "",
-       "date": "20221208"
-   },
-   {
-       "id": 94,
-       "name": "Topper Fight in 0a/b 1/c",
-       "kingdom": "Cap",
-       "time": "??",
-       "authors": [
-           "PlacidMink"
-       ],
-       "video": "https://video.twimg.com/ext_tw_video/1595367266153074690/pu/vid/1280x720/nN1WBQcd3E7idSL3.mp4?tag=12",
-       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1595367266153074690/pu/img/cjsU4W00Q5Km4Mmt.jpg",
-       "script": "https://cdn.discordapp.com/attachments/907493925818871828/1044927304415068180/Topper1cFinal.txt",
-       "setup": "Start the topper cutscene after dying the topper (sometimes inconsistent)",
-       "version": "1.0",
-       "notes": "",
-       "date": "20221123"
-   },
-   {
-       "id": 93,
-       "name": "Sand Kingdom Koopa Freerunning in 27.21",
-       "kingdom": "Sand",
-       "time": "27.21",
-       "authors": [
-           "arun"
-       ],
-       "video": "https://youtu.be/Dss7gfQhu5c",
-       "thumbnail": "https://i.ytimg.com/vi/Dss7gfQhu5c/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/1044758463802261645/2721-sand-kfr.txt",
-       "setup": "Script starts from reset",
-       "version": "1.0",
-       "notes": "",
-       "date": "20221122"
-   },
-   {
-       "id": 92,
-       "name": "Luncheon Cheese Room to Magma Room v2",
-       "kingdom": "Luncheon",
-       "time": "??",
-       "authors": [
-           "FT"
-       ],
-       "video": "https://youtu.be/TR_yPoh4agI",
-       "thumbnail": "https://i.ytimg.com/vi/TR_yPoh4agI/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/1043739531012214924/cheese-to-magma-v2.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20221120"
-   },
-   {
-       "id": 91,
-       "name": "Gushenless, improved by 1 frame",
-       "kingdom": "Seaside",
-       "time": "??",
-       "authors": [
-           "Mighty Owl"
-       ],
-       "video": "https://youtu.be/T8lPIUemuhc",
-       "thumbnail": "https://i.ytimg.com/vi/T8lPIUemuhc/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/1038719258139570197/gushenless.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20221105"
-   },
-   {
-       "id": 90,
-       "name": "Gushenless",
-       "kingdom": "Seaside",
-       "time": "??",
-       "authors": [
-           "CheeseStar"
-       ],
-       "video": "https://youtu.be/ByTwX7ily8U",
-       "thumbnail": "https://i.ytimg.com/vi/ByTwX7ily8U/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/1035779766533509130/pixel.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20221029"
-   },
-   {
-       "id": 89,
-       "name": "Captureless wooded tower",
-       "kingdom": "Wooded",
-       "time": "22.68",
-       "authors": [
-           "Racso79"
-       ],
-       "video": "https://www.youtube.com/watch?v=9R_p4H0PfEY",
-       "thumbnail": "https://i.ytimg.com/vi/9R_p4H0PfEY/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/1021443251321978990/succesful_stretch_moon.txt",
-       "setup": "teleport and start using practice mod",
-       "version": "1.0",
-       "notes": "Slower in comparison to Xiivler's TAS using uproot",
-       "date": "20220919"
-   },
-   {
-       "id": 88,
-       "name": "Shop To Nut on the Cliff",
-       "kingdom": "Wooded",
-       "time": "??",
-       "authors": [
-           "FT"
-       ],
-       "video": "https://youtu.be/moe4rvSbMHU",
-       "thumbnail": "https://i.ytimg.com/vi/moe4rvSbMHU/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220822"
-   },
-   {
-       "id": 87,
-       "name": "2P Tyfoo Room",
-       "kingdom": "Snow",
-       "time": "??",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/JZt2h53juXo",
-       "thumbnail": "https://i.ytimg.com/vi/JZt2h53juXo/sddefault.jpg",
-       "script": "https://drive.google.com/drive/folders/1GinlXbm8v7yMWApCXqryoX5Z4vC-dN6d?usp=sharing",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220819"
-   },
-   {
-       "id": 86,
-       "name": "Employees Only",
-       "kingdom": "Sand",
-       "time": "8.2",
-       "authors": [
-           "Racso79"
-       ],
-       "video": "https://www.youtube.com/watch?v=hNrIMGuJ0yQ",
-       "thumbnail": "https://i.ytimg.com/vi/hNrIMGuJ0yQ/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/1007323147940409384/employeesonlyskewdive.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220811"
-   },
-   {
-       "id": 85,
-       "name": "Tyfoo Room",
-       "kingdom": "Snow",
-       "time": "??",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/Ro9C1o9lzYE",
-       "thumbnail": "https://i.ytimg.com/vi/Ro9C1o9lzYE/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1wHzKDm33_qv19mikSCyZ2jlmd6fEFOH4/view?usp=sharing",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220810"
-   },
-   {
-       "id": 84,
-       "name": "Night Metro Beginning to City Hall Entrance",
-       "kingdom": "Metro",
-       "time": "??",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/5AINHPknn7k",
-       "thumbnail": "https://i.ytimg.com/vi/5AINHPknn7k/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1x8g51KWhPIsDuK9VaEs99sTZfvztgyr8/view?usp=sharing",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220719"
-   },
-   {
-       "id": 83,
-       "name": "Shards Room to Slots v3",
-       "kingdom": "Luncheon",
-       "time": "??",
-       "authors": [
-           "FT"
-       ],
-       "video": "https://youtu.be/NYI_jbH4P_E",
-       "thumbnail": "https://i.ytimg.com/vi/NYI_jbH4P_E/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/996954098739986464/ShardsRoomtoLuncheonSlotsV3.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220714"
-   },
-   {
-       "id": 82,
-       "name": "Employees Only Room",
-       "kingdom": "Sand",
-       "time": "??",
-       "authors": [
-           "FT"
-       ],
-       "video": "https://youtu.be/DFQr94Og5tU",
-       "thumbnail": "https://i.ytimg.com/vi/DFQr94Og5tU/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/996615368489574491/employeesonly.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220713"
-   },
-   {
-       "id": 81,
-       "name": "Snow Shop",
-       "kingdom": "Snow",
-       "time": "??",
-       "authors": [
-           "FT"
-       ],
-       "video": "https://youtu.be/pRYv4vlaBto",
-       "thumbnail": "https://i.ytimg.com/vi/pRYv4vlaBto/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/993743768295571456/snowshop.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220705"
-   },
-   {
-       "id": 80,
-       "name": "Employees Only to Rumble Room",
-       "kingdom": "Sand",
-       "time": "8.78",
-       "authors": [
-           "FT"
-       ],
-       "video": "https://www.youtube.com/watch?v=I1DOWp27M_s",
-       "thumbnail": "https://i.ytimg.com/vi/I1DOWp27M_s/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/986077724332417044/employees-to-rumble.txt",
-       "setup": "Type \"go SandWorldHomeStage 1 bar2 true\" into the server",
-       "version": "1.0",
-       "notes": "??",
-       "date": "20220614"
-   },
-   {
-       "id": 79,
-       "name": "Goomba Room",
-       "kingdom": "Snow",
-       "time": "35.90",
-       "authors": [
-           "Mighty Owl"
-       ],
-       "video": "https://www.youtube.com/watch?v=AEaCpz7G-hI",
-       "thumbnail": "https://i.ytimg.com/vi/AEaCpz7G-hI/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/985511416083673148/Goomba-Room.txt",
-       "setup": "Exit Goomba Room using the entrance door or run \"tp -6004.660 -4726.744 9129.912\" while in shiveria",
-       "version": "1.0",
-       "notes": "Reverse ICC might be faster but hasn't been TASed yet",
-       "date": "20220612"
-   },
-   {
-       "id": 78,
-       "name": "Moon Kingdom Koopa Freerunning",
-       "kingdom": "Moon",
-       "time": "29.45",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/sZB6kCrve18",
-       "thumbnail": "https://i.ytimg.com/vi/sZB6kCrve18/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/984683332161904700/moon-kfr-2945.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20220610"
-   },
-   {
-       "id": 77,
-       "name": "Pitchblack Mountain",
-       "kingdom": "Metro",
-       "time": "27.83",
-       "authors": [
-           "Mighty Owl"
-       ],
-       "video": "https://www.youtube.com/watch?v=EMflu1uNxI8",
-       "thumbnail": "https://i.ytimg.com/vi/EMflu1uNxI8/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/891594603717865542/962323046193049670/ogre.txt",
-       "setup": "Type \"go DonsukeExStage 8 donsuke true\" into the server",
-       "version": "1.0",
-       "notes": "??",
-       "date": "20220507"
-   },
-   {
-       "id": 76,
-       "name": "Luncheon Magma Sub Area",
-       "kingdom": "Luncheon",
-       "time": "8.62",
-       "authors": [
-           "Mighty Owl"
-       ],
-       "video": "https://www.youtube.com/watch?v=U0lMtO-Sx2I",
-       "thumbnail": "https://i.ytimg.com/vi/U0lMtO-Sx2I/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/967330980841021460/shardssub.txt",
-       "setup": "Type \"go LavaWorldHomeStage 1 KeyMoveEx true\" into the server",
-       "version": "1.0",
-       "notes": "??",
-       "date": "20220423"
-   },
-   {
-       "id": 75,
-       "name": "Employees only moon clip",
-       "kingdom": "Sand",
-       "time": "??",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://cdn.discordapp.com/attachments/829298026723016724/962738871936888832/employees.mp4",
-       "thumbnail": "https://media.discordapp.net/attachments/927988891670171679/1016657715990376528/unknown.png?width=320&height=180",
-       "script": "Not available",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20220410"
-   },
-   {
-       "id": 74,
-       "name": "Luncheon Cheese Room to Magma Room",
-       "kingdom": "Luncheon",
-       "time": "1:05.40",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=v_w2E9-DD6I",
-       "thumbnail": "https://i.ytimg.com/vi/v_w2E9-DD6I/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/943906230643073084/cheese-to-magma.txt",
-       "setup": "Type \"go LavaWorldHomeStage 1 MartinCubeEx true\" into the server",
-       "version": "1.0",
-       "notes": "??",
-       "date": "20220217"
-   },
-   {
-       "id": 73,
-       "name": "Shards Room to Luncheon Slots",
-       "kingdom": "Luncheon",
-       "time": "18.25",
-       "authors": [
-           "FT"
-       ],
-       "video": "https://www.youtube.com/watch?v=4vKf1vGJn7c",
-       "thumbnail": "https://i.ytimg.com/vi/4vKf1vGJn7c/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/942956136947126312/ShardsRoomtoLuncheonSlots.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "??",
-       "date": "20220215"
-   },
-   {
-       "id": 72,
-       "name": "Metro Tower Exit",
-       "kingdom": "Metro",
-       "time": "??",
-       "authors": [
-           "Pinkatie"
-       ],
-       "video": "https://youtu.be/d8xqAGuisSo",
-       "thumbnail": "https://i.ytimg.com/vi/d8xqAGuisSo/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220209"
-   },
-   {
-       "id": 71,
-       "name": "Lake Kingdom Koopa Freerunning",
-       "kingdom": "Lake",
-       "time": "15.88",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/N3UAD2lpi9E",
-       "thumbnail": "https://i.ytimg.com/vi/N3UAD2lpi9E/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/197Kbe635L-3NEiq3XFkuqC7PnFqYBa0S/view?usp=sharing",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20220209"
-   },
-   {
-       "id": 70,
-       "name": "Seaside Sphinx Room",
-       "kingdom": "Seaside",
-       "time": "??",
-       "authors": [
-           "Wallonice"
-       ],
-       "video": "https://www.youtube.com/watch?v=9B3iWEbCoCc",
-       "thumbnail": "https://i.ytimg.com/vi/9B3iWEbCoCc/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/832720420238000178/937801276903817246/sphonx.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "??",
-       "date": "20220205"
-   },
-   {
-       "id": 69,
-       "name": "Seaside Warp",
-       "kingdom": "Seaside",
-       "time": "??",
-       "authors": [
-           "Wallonice"
-       ],
-       "video": "https://www.youtube.com/watch?v=WYK8XoTzvI8",
-       "thumbnail": "https://i.ytimg.com/vi/WYK8XoTzvI8/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/832720420238000178/937823329379823646/sphonx.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "??",
-       "date": "20220205"
-   },
-   {
-       "id": 68,
-       "name": "Snow Kingdom Koopa Freerunning",
-       "kingdom": "Snow",
-       "time": "11.61",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/f2PBOoxxOvM",
-       "thumbnail": "https://i.ytimg.com/vi/f2PBOoxxOvM/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1I12SChC8KNLHPJLUw-rebAwgp6Kp5zB6/view?usp=sharing",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20220203"
-   },
-   {
-       "id": 67,
-       "name": "Start of Sand to Pillar",
-       "kingdom": "Sand",
-       "time": "??",
-       "authors": [
-           "Mars2030",
-           "Wallonice"
-       ],
-       "video": "https://youtu.be/1gJ1VBXLH6k",
-       "thumbnail": "https://i.ytimg.com/vi/1gJ1VBXLH6k/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220201"
-   },
-   {
-       "id": 66,
-       "name": "Seaside Rumble to Through the Jetstream",
-       "kingdom": "Seaside",
-       "time": "8.68",
-       "authors": [
-           "Wallonice"
-       ],
-       "video": "https://www.youtube.com/watch?v=Qz0fmP9lu4w",
-       "thumbnail": "https://i.ytimg.com/vi/Qz0fmP9lu4w/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/832720420238000178/937118632008364032/script4_1_1.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20220129"
-   },
-   {
-       "id": 65,
-       "name": "Snow Shop to Tyfoo Room",
-       "kingdom": "Snow",
-       "time": "22.85",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=d_iHHdtSPzo",
-       "thumbnail": "https://i.ytimg.com/vi/d_iHHdtSPzo/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1FUyCg_ThAPSsQiXgm4qvGwRxah4M2XoB/view?usp=sharing",
-       "setup": "Enter Shop",
-       "version": "1.0",
-       "notes": "Has a load",
-       "date": "20220127"
-   },
-   {
-       "id": 64,
-       "name": "Night Metro Wiggler Demo",
-       "kingdom": "Metro",
-       "time": "??",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/JPfuoTnc5mQ",
-       "thumbnail": "https://i.ytimg.com/vi/JPfuoTnc5mQ/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20220125"
-   },
-   {
-       "id": 63,
-       "name": "Exit Tower to Enter Wiggler",
-       "kingdom": "Metro",
-       "time": "7.80",
-       "authors": [
-           "MFG"
-       ],
-       "video": "https://www.youtube.com/watch?v=nvbtjQ5aTWM",
-       "thumbnail": "https://i.ytimg.com/vi/nvbtjQ5aTWM/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/940772177815425074/new-mte.txt",
-       "setup": "Type \"go CityWorldHomeStage 1 main_exit true\" into the server",
-       "version": "1.0",
-       "notes": "??",
-       "date": "20220125"
-   },
-   {
-       "id": 62,
-       "name": "Mysterious Clouds Room",
-       "kingdom": "Cascade",
-       "time": "??",
-       "authors": [
-           "Wallonice"
-       ],
-       "video": "https://www.youtube.com/watch?v=iITwhp6nW5I",
-       "thumbnail": "https://i.ytimg.com/vi/iITwhp6nW5I/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/925839803377934387/clouds.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211229"
-   },
-   {
-       "id": 61,
-       "name": "Bowser's Kingdom Koopa Freerunning in 1:02.98",
-       "kingdom": "Bowsers",
-       "time": "1:02.98",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/2uWhP4n8qnw",
-       "thumbnail": "https://i.ytimg.com/vi/2uWhP4n8qnw/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/19NXXC-dyIi8ghzUoXFCk-NHDMGcI8xxR/view?usp=sharing",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211229"
-   },
-   {
-       "id": 60,
-       "name": "Bullet Billding",
-       "kingdom": "Metro",
-       "time": "23.98",
-       "authors": [
-           "Wallonice"
-       ],
-       "video": "https://www.youtube.com/watch?v=Pq_P_o9JM_Q",
-       "thumbnail": "https://i.ytimg.com/vi/Pq_P_o9JM_Q/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/925096580850270218/billding.txt",
-       "setup": "Input \"go PoleKillerExStage 1 bou true\" into the server",
-       "version": "??",
-       "notes": "??",
-       "date": "20211227"
-   },
-   {
-       "id": 59,
-       "name": "2P Bowser Start to Ogre Story Moon",
-       "kingdom": "Bowsers",
-       "time": "39.08",
-       "authors": [
-           "Orolmë"
-       ],
-       "video": "https://youtu.be/A2N_i8g7XtQ",
-       "thumbnail": "https://img.youtube.com/vi/A2N_i8g7XtQ/hqdefault.jpg",
-       "script": "https://drive.google.com/drive/folders/1AGoJT1VzyArQrepKa5BYBvEdw83DAff2",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211222"
-   },
-   {
-       "id": 58,
-       "name": "Min Caps Metro CRC (Warp)",
-       "kingdom": "Metro",
-       "time": "??",
-       "authors": [
-           "Relaxmas"
-       ],
-       "video": "https://www.youtube.com/watch?v=6vAK40W5JB4",
-       "thumbnail": "https://i.ytimg.com/vi/6vAK40W5JB4/mqdefault.jpg",
-       "script": "https://drive.google.com/drive/folders/1Bc9uu9M4EIATcFWb1xd5992M4G6Egbot",
-       "setup": "??",
-       "version": "??",
-       "notes": "High camera sensitivity",
-       "date": "20211219"
-   },
-   {
-       "id": 57,
-       "name": "Min Caps Metro CRC (Death)",
-       "kingdom": "Metro",
-       "time": "??",
-       "authors": [
-           "Relaxmas"
-       ],
-       "video": "https://www.youtube.com/watch?v=mX02LMsukpU",
-       "thumbnail": "https://i.ytimg.com/vi/mX02LMsukpU/mqdefault.jpg",
-       "script": "https://drive.google.com/drive/folders/1Bc9uu9M4EIATcFWb1xd5992M4G6Egbot",
-       "setup": "??",
-       "version": "??",
-       "notes": "High camera sensitivity",
-       "date": "20211219"
-   },
-   {
-       "id": 56,
-       "name": "2P Luncheon Kingdom - 5:05",
-       "kingdom": "Luncheon",
-       "time": "5:05.22",
-       "authors": [
-           "Orolmë"
-       ],
-       "video": "https://youtu.be/2MKUr5RdhUw",
-       "thumbnail": "https://img.youtube.com/vi/2MKUr5RdhUw/hqdefault.jpg",
-       "script": "https://drive.google.com/drive/folders/1V8fZk45XynSDhqeJoY8tAXkO4AmFgeo2",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211213"
-   },
-   {
-       "id": 55,
-       "name": "2P Lake Kingdom - 2:31",
-       "kingdom": "Lake",
-       "time": "2:31.27",
-       "authors": [
-           "Orolmë"
-       ],
-       "video": "https://youtu.be/Gvb29RIOlM4",
-       "thumbnail": "https://img.youtube.com/vi/Gvb29RIOlM4/hqdefault.jpg",
-       "script": "https://drive.google.com/drive/folders/1QJNpIC_wmbgDSWvAIErYemJJUqfoQoVC",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211205"
-   },
-   {
-       "id": 54,
-       "name": "2P Bowser Mech Fight",
-       "kingdom": "Bowsers",
-       "time": "??",
-       "authors": [
-           "Orolmë"
-       ],
-       "video": "https://youtu.be/6E6WWn9mduw",
-       "thumbnail": "https://img.youtube.com/vi/6E6WWn9mduw/hqdefault.jpg",
-       "script": "https://drive.google.com/drive/folders/1jplmkgmBSLZSkv8edfpr9IlfdHZDxFAt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211204"
-   },
-   {
-       "id": 53,
-       "name": "Luncheon Kingdom Koopa Freerunning",
-       "kingdom": "Luncheon",
-       "time": "8.90",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/gb8ESNdfhvk",
-       "thumbnail": "https://i.ytimg.com/vi/gb8ESNdfhvk/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1_7s5eSvjJwSxf_u2eFHgwWa4kIeahpkC/view",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211128"
-   },
-   {
-       "id": 52,
-       "name": "Hariet Fight",
-       "kingdom": "Bowsers",
-       "time": "41.10",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=74KxIcmR8HQ",
-       "thumbnail": "https://i.ytimg.com/vi/74KxIcmR8HQ/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1baTvRZ0fiC8W8fwaNjECdAglZOvFcpW-/view",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211125"
-   },
-   {
-       "id": 51,
-       "name": "Cathedral to Ring Cutscene",
-       "kingdom": "Moon",
-       "time": "??",
-       "authors": [
-           "Tiewarn"
-       ],
-       "video": "https://cdn.discordapp.com/attachments/829263133776412672/912223936777961502/2021-11-22_16-57-09.mp4",
-       "thumbnail": "https://i.ytimg.com/vi/KN_U7rhlJ1M/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/912223970261094400/weddingdestroyer.exe.txt",
-       "setup": "Start script during load??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211122"
-   },
-   {
-       "id": 50,
-       "name": "2P Snow Dram",
-       "kingdom": "Snow",
-       "time": "??",
-       "authors": [
-           "JoniKauf"
-       ],
-       "video": "https://youtu.be/y1LrazhPHqw",
-       "thumbnail": "https://i.ytimg.com/vi/y1LrazhPHqw/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/905624391210131466/script0-1.txt https://cdn.discordapp.com/attachments/829263133776412672/905624408297713694/script0-2.txt",
-       "setup": "Warp to the checkpoint",
-       "version": "??",
-       "notes": "??",
-       "date": "20211104"
-   },
-   {
-       "id": 49,
-       "name": "Full Cascade Kingdom",
-       "kingdom": "Cascade",
-       "time": "2:50.533",
-       "authors": [
-           "Tiewarn",
-           "Mars2030"
-       ],
-       "video": "https://youtu.be/MUijOMkROGM",
-       "thumbnail": "https://i.ytimg.com/vi/MUijOMkROGM/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20211013"
-   },
-   {
-       "id": 48,
-       "name": "Enter Sand Kingdom to Employees Only",
-       "kingdom": "Sand",
-       "time": "16.03",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://www.youtube.com/watch?v=SsZ0IZZmOII",
-       "thumbnail": "https://i.ytimg.com/vi/SsZ0IZZmOII/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/897321154396708864/script0-1.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211012"
-   },
-   {
-       "id": 47,
-       "name": "Enter Cascade to Our First Power Moon",
-       "kingdom": "Cascade",
-       "time": "??",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://www.youtube.com/watch?v=gsYE5Sad7k0",
-       "thumbnail": "https://i.ytimg.com/vi/gsYE5Sad7k0/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/895097961900548116/script0-1.txt",
-       "setup": "Start after cap wakeup",
-       "version": "Any",
-       "notes": "Needs this mod: https://cdn.discordapp.com/attachments/829263133776412672/895101534281547787/CapWorldHomeStageMap.szs",
-       "date": "20211005"
-   },
-   {
-       "id": 46,
-       "name": "Wooded Kingdom Koopa Freerunning",
-       "kingdom": "Wooded",
-       "time": "15.48",
-       "authors": [
-           "Wallonice"
-       ],
-       "video": "https://youtu.be/o_JZS5VfPnc",
-       "thumbnail": "https://img.youtube.com/vi/o_JZS5VfPnc/hqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/894221558221013032/script6.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20211003"
-   },
-   {
-       "id": 45,
-       "name": "Night Metro Tower Climb",
-       "kingdom": "Metro",
-       "time": "23.08",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=Apg7_Vv2Kps",
-       "thumbnail": "https://i.ytimg.com/vi/Apg7_Vv2Kps/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/893603443044941844/night_metro_tower_v2.txt",
-       "setup": "Exit tower (bottom entrance)",
-       "version": "Any",
-       "notes": "Has a load",
-       "date": "20211001"
-   },
-   {
-       "id": 44,
-       "name": "Warp City Hall to People Room",
-       "kingdom": "Metro",
-       "time": "46.80",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=jk2NNZdp3Y4",
-       "thumbnail": "https://i.ytimg.com/vi/jk2NNZdp3Y4/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/13MGLRD12N2ANd-6Z-Mdf9zATc3oZSMSe/view?usp=sharing",
-       "setup": "Prepare for warp A press",
-       "version": "Any",
-       "notes": "Has a load",
-       "date": "20211001"
-   },
-   {
-       "id": 43,
-       "name": "Employees Only",
-       "kingdom": "Sand",
-       "time": "8.22",
-       "authors": [
-           "Flavien"
-       ],
-       "video": "https://www.youtube.com/watch?v=7wNe897fRSM",
-       "thumbnail": "https://i.ytimg.com/vi/7wNe897fRSM/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/892852247082442852/flavien_employees_only.txt",
-       "setup": "Start after leaving employees only",
-       "version": "Any",
-       "notes": "",
-       "date": "20210929"
-   },
-   {
-       "id": 42,
-       "name": "Our First Power Moon to Multimoon Atop the Falls",
-       "kingdom": "Cascade",
-       "time": "27.78",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://cdn.discordapp.com/attachments/829263133776412672/891407330422439956/yuzu.exe_2021.09.25_-_15.28.40.41.DVR.mp4",
-       "thumbnail": "https://media.discordapp.net/attachments/927988891670171679/992101652096106617/unknown.png?width=320&height=180",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/891407359048556544/script0-1.txt",
-       "setup": "??",
-       "version": "Any",
-       "notes": "Needs first moon rock",
-       "date": "20210925"
-   },
-   {
-       "id": 41,
-       "name": "Exit Forks to Enter Cheese",
-       "kingdom": "Luncheon",
-       "time": "8.83",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=2CMT1Q4nzTc",
-       "thumbnail": "https://i.ytimg.com/vi/2CMT1Q4nzTc/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/891104105924296734/salt_clip.txt",
-       "setup": "Enter fork room",
-       "version": "1.3",
-       "notes": "Has a load, very high camera speed",
-       "date": "20210924"
-   },
-   {
-       "id": 40,
-       "name": "Mushroom Kingdom Koopa Freerunning",
-       "kingdom": "Mushroom",
-       "time": "11.68",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/bgri_weJLVY",
-       "thumbnail": "https://i.ytimg.com/vi/bgri_weJLVY/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1yVk4P6bXHd-9706x8tpPkbXqBO7nKwfN/view?usp=sharing",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20210915"
-   },
-   {
-       "id": 39,
-       "name": "Metro Kingdom Koopa Freerunning",
-       "kingdom": "Metro",
-       "time": "12.98",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/jZnLxKWrg1M",
-       "thumbnail": "https://i.ytimg.com/vi/jZnLxKWrg1M/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/886977950786945035/metro_kfr_sub_13.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20210913"
-   },
-   {
-       "id": 38,
-       "name": "Sand rumble room",
-       "kingdom": "Sand",
-       "time": "8.08",
-       "authors": [
-           "Tiewarn"
-       ],
-       "video": "https://www.youtube.com/watch?v=r4r7k_8Q6-8",
-       "thumbnail": "https://i.ytimg.com/vi/r4r7k_8Q6-8/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/879766287964860456/script0-1_-_Copy.txt",
-       "setup": "exit rumble room and wait until landing to run script",
-       "version": "1.3",
-       "notes": "Has a load, previous segments by QFlame/Mars2030/FT",
-       "date": "20210824"
-   },
-   {
-       "id": 37,
-       "name": "Full Cap Kingdom",
-       "kingdom": "Cap",
-       "time": "2:11.983",
-       "authors": [
-           "Qflame",
-           "Jadefalke",
-           "Dr. Agoti",
-           "Mars2030"
-       ],
-       "video": "https://youtu.be/oMI796qC6xs",
-       "thumbnail": "https://i.ytimg.com/vi/oMI796qC6xs/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20210822"
-   },
-   {
-       "id": 36,
-       "name": "Enter Bowser's Kingdom to Ogre Story Moon",
-       "kingdom": "Bowsers",
-       "time": "41.17",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=p8MbRUGUbS4",
-       "thumbnail": "https://i.ytimg.com/vi/p8MbRUGUbS4/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1ynna7bZDhI69ItGiYa4zoK3DQiiZA7KL/view?usp=sharing",
-       "setup": "Make the cutscene skip dialogue appear for the second-to-last cutscene but don't press A",
-       "version": "1.3",
-       "notes": "",
-       "date": "20210816"
-   },
-   {
-       "id": 35,
-       "name": "Cap Topper",
-       "kingdom": "Cap",
-       "time": "38.15",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://video.twimg.com/ext_tw_video/1425994915679514625/pu/vid/1280x720/MJBb3RBQNQ3VcmVu.mp4?tag=12",
-       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1425219873748176897/pu/img/FkMwkFOf9z8_glf0.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/875554297675415583/script3.txt",
-       "setup": "Click \"plus\" but don't skip the cutscene then run the script",
-       "version": "Any",
-       "notes": "",
-       "date": "20210813"
-   },
-   {
-       "id": 34,
-       "name": "Sphynx Room Enter to Luggage Warp",
-       "kingdom": "Sand",
-       "time": "24.37",
-       "authors": [
-           "Tiewarn"
-       ],
-       "video": "https://www.youtube.com/watch?v=M3iZ7A6tBEQ",
-       "thumbnail": "https://i.ytimg.com/vi/M3iZ7A6tBEQ/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/874599232819068948/sphynx_to_luggage_full_TAS.txt",
-       "setup": "Start after leaving sphynx room",
-       "version": "1.0",
-       "notes": "",
-       "date": "20210810"
-   },
-   {
-       "id": 33,
-       "name": "Cap Wakeup to Top Hat Tower",
-       "kingdom": "Cap",
-       "time": "35.22",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://video.twimg.com/ext_tw_video/1425219873748176897/pu/vid/1280x720/GnFRFWSNI9u5LZw0.mp4?tag=12",
-       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1425219873748176897/pu/img/FkMwkFOf9z8_glf0.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/874779770271977512/script11.txt",
-       "setup": "Start at B press prompt",
-       "version": "1.3",
-       "notes": "",
-       "date": "20210810"
-   },
-   {
-       "id": 32,
-       "name": "Seaside Rumble Room",
-       "kingdom": "Seaside",
-       "time": "8.53",
-       "authors": [
-           "Tiewarn"
-       ],
-       "video": "https://www.youtube.com/watch?v=2wj6TZj1Ct8",
-       "thumbnail": "https://i.ytimg.com/vi/2wj6TZj1Ct8/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/872821924944810014/Seaside_Rumble_Room_v2_-_Copy.txt",
-       "setup": "Start during load",
-       "version": "1.0",
-       "notes": "",
-       "date": "20210805"
-   },
-   {
-       "id": 31,
-       "name": "Bunnies Story Moon to Mech Fight",
-       "kingdom": "Bowsers",
-       "time": "1:00.15",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=S3YhBGeeqRg",
-       "thumbnail": "https://i.ytimg.com/vi/S3YhBGeeqRg/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/872257390991515678/pipeless.txt",
-       "setup": "Have both broodals beaten, prepare for warp A press for Main Courtyard Entrance CP",
-       "version": "1.3",
-       "notes": "Has a load before the segment starts, needs a 6f spinpound after the warp and good spiny positioning to work",
-       "date": "20210803"
-   },
-   {
-       "id": 30,
-       "name": "2P Rango to Lakeshore",
-       "kingdom": "Lake",
-       "time": "??",
-       "authors": [
-           "Orolmë",
-           "Sknoll18"
-       ],
-       "video": "https://youtu.be/OFLofu9HdYI",
-       "thumbnail": "https://img.youtube.com/vi/OFLofu9HdYI/hqdefault.jpg",
-       "script": "https://www.dropbox.com/sh/34c0ns4fvtv7im2/AACRKU8ZSKlOf2xlQ5DiHw_Ra?dl=0",
-       "setup": "Stand under the multimoon",
-       "version": "??",
-       "notes": "??",
-       "date": "20210729"
-   },
-   {
-       "id": 29,
-       "name": "Luncheon Slots",
-       "kingdom": "Luncheon",
-       "time": "13.65",
-       "authors": [
-           "matthewpugs24"
-       ],
-       "video": "https://www.youtube.com/watch?v=Gh2aCXdnZRk",
-       "thumbnail": "https://img.youtube.com/vi/Gh2aCXdnZRk/hqdefault.jpg ",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/866745363080020008/script0-1.txt",
-       "setup": "Enter slots and don't move/start during load",
-       "version": "1.3",
-       "notes": "Text changes if you've collected the moon before with practice mod",
-       "date": "20210719"
-   },
-   {
-       "id": 28,
-       "name": "Bowser Dram",
-       "kingdom": "Bowsers",
-       "time": "34.10",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=EvbPNqeE6K0",
-       "thumbnail": "https://i.ytimg.com/vi/EvbPNqeE6K0/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1ksllV_g2ZwgXkRnaFdaRxGv1AahwPbI6/view?usp=sharing",
-       "setup": "Position mario under the story moon",
-       "version": "Any",
-       "notes": "",
-       "date": "20210704"
-   },
-   {
-       "id": 27,
-       "name": "Flooding Pipeway and Globe Mashing",
-       "kingdom": "Wooded",
-       "time": "45.48",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/btVWbX0vFGs",
-       "thumbnail": "https://i.ytimg.com/vi/btVWbX0vFGs/mqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1tpTP10LoyMyUA2SDhSpBpmRE7M80K83D/view?usp=sharing",
-       "setup": "Exit Flooding Pipeway",
-       "version": "Any",
-       "notes": "Has a load",
-       "date": "20210629"
-   },
-   {
-       "id": 26,
-       "name": "Top Hat Tower Entrance to Exit",
-       "kingdom": "Cap",
-       "time": "18.13",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://www.youtube.com/watch?v=Ue6Fhp1EFWQ",
-       "thumbnail": "https://img.youtube.com/vi/Ue6Fhp1EFWQ/hqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/854153669531795466/frogroom.txt",
-       "setup": "Exit Tower (bottom entrance)",
-       "version": "Any",
-       "notes": "Has a load",
-       "date": "20210615"
-   },
-   {
-       "id": 25,
-       "name": "Sky Garden Tower to Flooding Pipeway",
-       "kingdom": "Wooded",
-       "time": "24.18",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=UmMxwNTnwQE",
-       "thumbnail": "https://i.ytimg.com/vi/UmMxwNTnwQE/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/854097294961016832/wooded_tower_to_pipe.txt",
-       "setup": "Enter tower (top entrance)",
-       "version": "Any",
-       "notes": "Has a load",
-       "date": "20210614"
-   },
-   {
-       "id": 24,
-       "name": "Wooded Sky Garden Tower",
-       "kingdom": "Wooded",
-       "time": "21.40",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://www.youtube.com/watch?v=DeCzebdX_sE",
-       "thumbnail": "https://i.ytimg.com/vi/DeCzebdX_sE/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829263133776412672/851900387970646057/wooded_tower.txt",
-       "setup": "Exit tower",
-       "version": "Any",
-       "notes": "Has a load",
-       "date": "20210608"
-   },
-   {
-       "id": 23,
-       "name": "KFREC \"Cap Under the Bridge\"",
-       "kingdom": "Cap",
-       "time": "20.73",
-       "authors": [
-           "NiklYoshi"
-       ],
-       "video": "https://youtu.be/uCmiCQ3fL1k",
-       "thumbnail": "https://i.ytimg.com/vi/uCmiCQ3fL1k/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/838449668266131456/850663386371194880/TAS_Cap_Under_the_Bridge.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20210605"
-   },
-   {
-       "id": 22,
-       "name": "Seaside Koopa Freerunning To Gushen",
-       "kingdom": "Seaside",
-       "time": "11.08",
-       "authors": [
-           "Xiivler"
-       ],
-       "video": "https://youtu.be/uXshmaPY2Zs",
-       "thumbnail": "https://img.youtube.com/vi/uXshmaPY2Zs/hqdefault.jpg",
-       "script": "https://drive.google.com/file/d/1HkcB2cQqsdUT7CsUCpEBQQvU_wB3-eki/view",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20210531"
-   },
-   {
-       "id": 21,
-       "name": "Loose Tile Trackdown",
-       "kingdom": "Mushroom",
-       "time": "??",
-       "authors": [
-           "GoodGoomba"
-       ],
-       "video": "https://www.youtube.com/watch?v=AfkZLhyRAo8",
-       "thumbnail": "https://i.ytimg.com/vi/AfkZLhyRAo8/mqdefault.jpg",
-       "script": "https://pastebin.com/wsRW2VKB",
-       "setup": "Enter the castle",
-       "version": "??",
-       "notes": "??",
-       "date": "20210528"
-   },
-   {
-       "id": 20,
-       "name": "Frogless",
-       "kingdom": "Cap",
-       "time": "??",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://www.youtube.com/watch?v=8cT0OArjlW4",
-       "thumbnail": "https://img.youtube.com/vi/8cT0OArjlW4/hqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016411683314466886/frogless.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20210525"
-   },
-   {
-       "id": 19,
-       "name": "2P Our First Power Moon - Start Fight",
-       "kingdom": "Cascade",
-       "time": "13.77",
-       "authors": [
-           "Orolmë"
-       ],
-       "video": "https://youtu.be/WBsv59y1Ci0",
-       "thumbnail": "https://i.ytimg.com/vi/WBsv59y1Ci0/mqdefault.jpg",
-       "script": "https://www.dropbox.com/sh/8vjz5if7c0ao9c1/AABIlXc4O_pMDcYgvWPaT2yMa?dl=0",
-       "setup": "Even though Mario is perfectly placed on this clip at start, I didn't took the moon with cutscene and dialogue (due to practice mod, but I grabbed it). So it seems not possible to run this script successfully without practice mod, probably cause camera angle might change a bit",
-       "version": "1.3",
-       "notes": "??",
-       "date": "20210525"
-   },
-   {
-       "id": 18,
-       "name": "Exit Top Hat Tower to Topper Fight",
-       "kingdom": "Cap",
-       "time": "6.23",
-       "authors": [
-           "Qflame",
-           "Jadefalke",
-           "Dr. Agoti",
-           "Mars2030"
-       ],
-       "video": "https://www.youtube.com/watch?v=V8QFsbCLjYI",
-       "thumbnail": "https://i.ytimg.com/vi/V8QFsbCLjYI/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016412052488716418/leftside.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "",
-       "date": "20210516"
-   },
-   {
-       "id": 17,
-       "name": "Cascade start to first moon",
-       "kingdom": "Cascade",
-       "time": "??",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://cdn.discordapp.com/attachments/829263133776412672/838458319097561139/firstmoon.mp4",
-       "thumbnail": "https://media.discordapp.net/attachments/927988891670171679/992100264683241472/unknown.png?width=320&height=180",
-       "script": "https://cdn.discordapp.com/attachments/838449515639865354/838457431490953266/firstmoonscript.txt",
-       "setup": "Do nothing after skipping all \"first visit\" cutscenes",
-       "version": "1.0",
-       "notes": "No time due to start",
-       "date": "20210502"
-   },
-   {
-       "id": 16,
-       "name": "Taking notes in private room",
-       "kingdom": "Metro",
-       "time": "??",
-       "authors": [
-           "aspyn"
-       ],
-       "video": "https://cdn.discordapp.com/attachments/829263133776412672/836792020012892240/AT-cm_1154888321.mp4",
-       "thumbnail": "https://media.discordapp.net/attachments/927988891670171679/992063699730841693/unknown.png?width=320&height=180",
-       "script": "https://cdn.discordapp.com/attachments/838449581879459901/838832460837814332/script1.txt",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20210428"
-   },
-   {
-       "id": 15,
-       "name": "Bowser Mech Fight",
-       "kingdom": "Bowsers",
-       "time": "??",
-       "authors": [
-           "Mars2030",
-           "FT",
-           "Wallonice"
-       ],
-       "video": "https://www.youtube.com/watch?v=_MLAm2Kun88",
-       "thumbnail": "https://i.ytimg.com/vi/_MLAm2Kun88/mqdefault.jpg",
-       "script": "https://pastebin.com/kQVq2PSs",
-       "setup": "Go inside the wire before the mech fight but don't move",
-       "version": "1.3",
-       "notes": "",
-       "date": "20210425"
-   },
-   {
-       "id": 14,
-       "name": "Crate to Alcove",
-       "kingdom": "Sand",
-       "time": "??",
-       "authors": [
-           "FT"
-       ],
-       "video": "https://www.youtube.com/watch?v=EoTBwS2bpo4",
-       "thumbnail": "https://i.ytimg.com/vi/EoTBwS2bpo4/mqdefault.jpg",
-       "script": "Not available",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20210414"
-   },
-   {
-       "id": 13,
-       "name": "??",
-       "kingdom": "Cascade",
-       "time": "??",
-       "authors": [
-           "FT"
-       ],
-       "video": "https://www.youtube.com/watch?v=8MjroYZDoCQ",
-       "thumbnail": "https://i.ytimg.com/vi/8MjroYZDoCQ/mqdefault.jpg",
-       "script": "Not available",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20210118"
-   },
-   {
-       "id": 12,
-       "name": "Ice Clip",
-       "kingdom": "Sand",
-       "time": "??",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://video.twimg.com/ext_tw_video/1311461080145690624/pu/vid/1280x720/GZqfhMox6ZoBVJ75.mp4?tag=10",
-       "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1311461080145690624/pu/img/ZMNWuw9sXJZ3fcW6.jpg",
-       "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016411198037692558/iceclip-script.txt",
-       "setup": "Warp to atop the highest tower checkpoint",
-       "version": "1.0",
-       "notes": "Has a load",
-       "date": "20201001"
-   },
-   {
-       "id": 11,
-       "name": "3 Captures - Nut Jumping",
-       "kingdom": "Bowsers",
-       "time": "??",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://youtu.be/tr_Lbuui2nE",
-       "thumbnail": "https://i.ytimg.com/vi/tr_Lbuui2nE/mqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/829298026723016724/1054486078993735720/nutjump1-script.txt",
-       "setup": "Start in the top wire in Bowsers, see video",
-       "version": "1.0",
-       "notes": "Player 2: https://cdn.discordapp.com/attachments/829298026723016724/1054486079329275924/nutjump2-script.txt",
-       "date": "20200914"
-   },
-   {
-       "id": 10,
-       "name": "2p Any% BTT Pole Snipe",
-       "kingdom": "Metro",
-       "time": "??",
-       "authors": [
-           "Mars2030"
-       ],
-       "video": "https://www.youtube.com/watch?v=NK7gk4IqBf8",
-       "thumbnail": "https://img.youtube.com/vi/NK7gk4IqBf8/hqdefault.jpg",
-       "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016412496288022611/pole1-script.txt https://cdn.discordapp.com/attachments/838449790680825877/1016412496476774520/pole2-script.txt",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20200825"
-   },
-   {
-       "id": 9,
-       "name": "Moon Mashing",
-       "kingdom": "Moon",
-       "time": "29.37",
-       "authors": [
-           "Qflame"
-       ],
-       "video": "https://youtu.be/hjlab5G6oB4",
-       "thumbnail": "https://i.ytimg.com/vi/hjlab5G6oB4/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20200424"
-   },
-   {
-       "id": 8,
-       "name": "Bowser's Mashing",
-       "kingdom": "Bowsers",
-       "time": "18.25",
-       "authors": [
-           "Qflame"
-       ],
-       "video": "https://youtu.be/sN_5jJ6gbOI",
-       "thumbnail": "https://i.ytimg.com/vi/sN_5jJ6gbOI/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20200424"
-   },
-   {
-       "id": 7,
-       "name": "Luncheon Mashing",
-       "kingdom": "Luncheon",
-       "time": "28.67",
-       "authors": [
-           "Qflame"
-       ],
-       "video": "https://youtu.be/R0aXGklzbv4",
-       "thumbnail": "https://i.ytimg.com/vi/R0aXGklzbv4/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20200416"
-   },
-   {
-       "id": 6,
-       "name": "Seaside Mashing",
-       "kingdom": "Seaside",
-       "time": "29.38",
-       "authors": [
-           "Qflame"
-       ],
-       "video": "https://youtu.be/TqTcWZo-QHo",
-       "thumbnail": "https://i.ytimg.com/vi/TqTcWZo-QHo/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20200416"
-   },
-   {
-       "id": 5,
-       "name": "Snow Mashing",
-       "kingdom": "Snow",
-       "time": "29.93",
-       "authors": [
-           "Qflame"
-       ],
-       "video": "https://youtu.be/SrPM6wQCXV4",
-       "thumbnail": "https://i.ytimg.com/vi/SrPM6wQCXV4/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20200416"
-   },
-   {
-       "id": 4,
-       "name": "Metro Mashing TAS",
-       "kingdom": "Metro",
-       "time": "18.35",
-       "authors": [
-           "Qflame"
-       ],
-       "video": "https://youtu.be/K6ytMvY9MsY",
-       "thumbnail": "https://i.ytimg.com/vi/K6ytMvY9MsY/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20200416"
-   },
-   {
-       "id": 3,
-       "name": "Cloud Mashing TAS",
-       "kingdom": "Cloud",
-       "time": "23.42",
-       "authors": [
-           "Qflame"
-       ],
-       "video": "https://youtu.be/ijOhYrmtecI",
-       "thumbnail": "https://i.ytimg.com/vi/ijOhYrmtecI/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20200416"
-   },
-   {
-       "id": 2,
-       "name": "Sand Mashing",
-       "kingdom": "Sand",
-       "time": "33.78",
-       "authors": [
-           "Qflame"
-       ],
-       "video": "https://youtu.be/_ZX8vjRM4cQ",
-       "thumbnail": "https://i.ytimg.com/vi/_ZX8vjRM4cQ/mqdefault.jpg",
-       "script": "??",
-       "setup": "??",
-       "version": "1.0",
-       "notes": "",
-       "date": "20200317"
-   },
-   {
-       "id": 1,
-       "name": "Seaside start to High moon",
-       "kingdom": "Seaside",
-       "time": "09.48",
-       "authors": [
-           "CMFP"
-       ],
-       "video": "https://www.youtube.com/watch?v=jSlnd-T29Yw",
-       "thumbnail": "https://i.ytimg.com/vi/jSlnd-T29Yw/mqdefault.jpg",
-       "script": "https://pastebin.com/iDyPK0r3",
-       "setup": "??",
-       "version": "1.3",
-       "notes": "",
-       "date": "20190609"
-   },
-   {
-       "id": 0,
-       "name": "Rumble to enter employees only",
-       "kingdom": "Sand",
-       "time": "10.97",
-       "authors": [
-           "CMFP"
-       ],
-       "video": "https://www.youtube.com/watch?v=BQ0KhZVaPkU",
-       "thumbnail": "https://i.ytimg.com/vi/BQ0KhZVaPkU/mqdefault.jpg",
-       "script": "https://pastebin.com/knagZqXE",
-       "setup": "??",
-       "version": "??",
-       "notes": "??",
-       "date": "20190601"
-   }
+    {
+        "id": 100,
+        "name": "Mechawiggler Fight",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/wDi_tsz_NT8",
+        "thumbnail": "https://i.ytimg.com/vi/wDi_tsz_NT8/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1Ddwmly2_KBxYk52tOKEFmWQlF5Gj2TCY/view?usp=sharing",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230102"
+    },
+    {
+        "id": 99,
+        "name": "Luncheon Timer Moon",
+        "kingdom": "Luncheon",
+        "time": "??",
+        "authors": [
+            "Mighty Owl"
+        ],
+        "video": "https://youtu.be/6hp5OdIdz9g",
+        "thumbnail": "https://i.ytimg.com/vi/6hp5OdIdz9g/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1057732411615625337/scarecrow.txt",
+        "setup": "go LavaWorldHomeStage 1 start",
+        "version": "1.0",
+        "notes": "",
+        "date": "20221228"
+    },
+    {
+        "id": 98,
+        "name": "Snow Dram",
+        "kingdom": "Snow",
+        "time": "??",
+        "authors": [
+            "Mighty Owl"
+        ],
+        "video": "https://youtu.be/YPE7B05RVdk",
+        "thumbnail": "https://i.ytimg.com/vi/YPE7B05RVdk/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1057732411229732945/snowdram.txt",
+        "setup": "go SnowWorldHomeStage 1 start",
+        "version": "1.0",
+        "notes": "",
+        "date": "20221228"
+    },
+    {
+        "id": 97,
+        "name": "2P - Employees Only",
+        "kingdom": "Sand",
+        "time": "??",
+        "authors": [
+            "Tiewarn"
+        ],
+        "video": "https://youtu.be/KbZgDP7OJGo",
+        "thumbnail": "https://i.ytimg.com/vi/KbZgDP7OJGo/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20221224"
+    },
+    {
+        "id": 96,
+        "name": "People Room",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/reBPJjUROGk",
+        "thumbnail": "https://i.ytimg.com/vi/reBPJjUROGk/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/12cH_Glz6vqr0Z7dxTeaoxCbg4ZdraMMf/view?usp=sharing",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20221223"
+    },
+    {
+        "id": 95,
+        "name": "2P Any% - Bowser Ogre Story Moon to Shards Moon",
+        "kingdom": "Bowsers",
+        "time": "??",
+        "authors": [
+            "Orolmë"
+        ],
+        "video": "https://youtu.be/cXHhnRNH4dI",
+        "thumbnail": "https://i.ytimg.com/vi/cXHhnRNH4dI/mqdefault.jpg",
+        "script": "https://drive.google.com/drive/folders/1n5sOuZ1u5-J_7Lq8cnQJGlBwAb1G5DjG?usp=sharing",
+        "setup": "Script starts from reset",
+        "version": "1.3",
+        "notes": "",
+        "date": "20221208"
+    },
+    {
+        "id": 94,
+        "name": "Topper Fight in 0a/b 1/c",
+        "kingdom": "Cap",
+        "time": "??",
+        "authors": [
+            "PlacidMink"
+        ],
+        "video": "https://video.twimg.com/ext_tw_video/1595367266153074690/pu/vid/1280x720/nN1WBQcd3E7idSL3.mp4?tag=12",
+        "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1595367266153074690/pu/img/cjsU4W00Q5Km4Mmt.jpg",
+        "script": "https://cdn.discordapp.com/attachments/907493925818871828/1044927304415068180/Topper1cFinal.txt",
+        "setup": "Start the topper cutscene after dying the topper (sometimes inconsistent)",
+        "version": "1.0",
+        "notes": "",
+        "date": "20221123"
+    },
+    {
+        "id": 93,
+        "name": "Sand Kingdom Koopa Freerunning in 27.21",
+        "kingdom": "Sand",
+        "time": "27.21",
+        "authors": [
+            "arun"
+        ],
+        "video": "https://youtu.be/Dss7gfQhu5c",
+        "thumbnail": "https://i.ytimg.com/vi/Dss7gfQhu5c/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1044758463802261645/2721-sand-kfr.txt",
+        "setup": "Script starts from reset",
+        "version": "1.0",
+        "notes": "",
+        "date": "20221122"
+    },
+    {
+        "id": 92,
+        "name": "Luncheon Cheese Room to Magma Room v2",
+        "kingdom": "Luncheon",
+        "time": "??",
+        "authors": [
+            "FT"
+        ],
+        "video": "https://youtu.be/TR_yPoh4agI",
+        "thumbnail": "https://i.ytimg.com/vi/TR_yPoh4agI/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1043739531012214924/cheese-to-magma-v2.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20221120"
+    },
+    {
+        "id": 91,
+        "name": "Gushenless, improved by 1 frame",
+        "kingdom": "Seaside",
+        "time": "??",
+        "authors": [
+            "Mighty Owl"
+        ],
+        "video": "https://youtu.be/T8lPIUemuhc",
+        "thumbnail": "https://i.ytimg.com/vi/T8lPIUemuhc/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1038719258139570197/gushenless.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20221105"
+    },
+    {
+        "id": 90,
+        "name": "Gushenless",
+        "kingdom": "Seaside",
+        "time": "??",
+        "authors": [
+            "CheeseStar"
+        ],
+        "video": "https://youtu.be/ByTwX7ily8U",
+        "thumbnail": "https://i.ytimg.com/vi/ByTwX7ily8U/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1035779766533509130/pixel.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20221029"
+    },
+    {
+        "id": 89,
+        "name": "Captureless wooded tower",
+        "kingdom": "Wooded",
+        "time": "22.68",
+        "authors": [
+            "Racso79"
+        ],
+        "video": "https://www.youtube.com/watch?v=9R_p4H0PfEY",
+        "thumbnail": "https://i.ytimg.com/vi/9R_p4H0PfEY/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1021443251321978990/succesful_stretch_moon.txt",
+        "setup": "teleport and start using practice mod",
+        "version": "1.0",
+        "notes": "Slower in comparison to Xiivler's TAS using uproot",
+        "date": "20220919"
+    },
+    {
+        "id": 88,
+        "name": "Shop To Nut on the Cliff",
+        "kingdom": "Wooded",
+        "time": "??",
+        "authors": [
+            "FT"
+        ],
+        "video": "https://youtu.be/moe4rvSbMHU",
+        "thumbnail": "https://i.ytimg.com/vi/moe4rvSbMHU/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220822"
+    },
+    {
+        "id": 87,
+        "name": "2P Tyfoo Room",
+        "kingdom": "Snow",
+        "time": "??",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/JZt2h53juXo",
+        "thumbnail": "https://i.ytimg.com/vi/JZt2h53juXo/sddefault.jpg",
+        "script": "https://drive.google.com/drive/folders/1GinlXbm8v7yMWApCXqryoX5Z4vC-dN6d?usp=sharing",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220819"
+    },
+    {
+        "id": 86,
+        "name": "Employees Only",
+        "kingdom": "Sand",
+        "time": "8.200",
+        "authors": [
+            "Racso79"
+        ],
+        "video": "https://www.youtube.com/watch?v=hNrIMGuJ0yQ",
+        "thumbnail": "https://i.ytimg.com/vi/hNrIMGuJ0yQ/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1007323147940409384/employeesonlyskewdive.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220811"
+    },
+    {
+        "id": 85,
+        "name": "Tyfoo Room",
+        "kingdom": "Snow",
+        "time": "??",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/Ro9C1o9lzYE",
+        "thumbnail": "https://i.ytimg.com/vi/Ro9C1o9lzYE/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1wHzKDm33_qv19mikSCyZ2jlmd6fEFOH4/view?usp=sharing",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220810"
+    },
+    {
+        "id": 84,
+        "name": "Night Metro Beginning to City Hall Entrance",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/5AINHPknn7k",
+        "thumbnail": "https://i.ytimg.com/vi/5AINHPknn7k/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1x8g51KWhPIsDuK9VaEs99sTZfvztgyr8/view?usp=sharing",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220719"
+    },
+    {
+        "id": 83,
+        "name": "Shards Room to Slots v3",
+        "kingdom": "Luncheon",
+        "time": "??",
+        "authors": [
+            "FT"
+        ],
+        "video": "https://youtu.be/NYI_jbH4P_E",
+        "thumbnail": "https://i.ytimg.com/vi/NYI_jbH4P_E/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/996954098739986464/ShardsRoomtoLuncheonSlotsV3.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220714"
+    },
+    {
+        "id": 82,
+        "name": "Employees Only Room",
+        "kingdom": "Sand",
+        "time": "??",
+        "authors": [
+            "FT"
+        ],
+        "video": "https://youtu.be/DFQr94Og5tU",
+        "thumbnail": "https://i.ytimg.com/vi/DFQr94Og5tU/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/996615368489574491/employeesonly.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220713"
+    },
+    {
+        "id": 81,
+        "name": "Snow Shop",
+        "kingdom": "Snow",
+        "time": "??",
+        "authors": [
+            "FT"
+        ],
+        "video": "https://youtu.be/pRYv4vlaBto",
+        "thumbnail": "https://i.ytimg.com/vi/pRYv4vlaBto/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/993743768295571456/snowshop.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220705"
+    },
+    {
+        "id": 80,
+        "name": "Employees Only to Rumble Room",
+        "kingdom": "Sand",
+        "time": "8.780",
+        "authors": [
+            "FT"
+        ],
+        "video": "https://www.youtube.com/watch?v=I1DOWp27M_s",
+        "thumbnail": "https://i.ytimg.com/vi/I1DOWp27M_s/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/986077724332417044/employees-to-rumble.txt",
+        "setup": "Type \"go SandWorldHomeStage 1 bar2 true\" into the server",
+        "version": "1.0",
+        "notes": "??",
+        "date": "20220614"
+    },
+    {
+        "id": 79,
+        "name": "Goomba Room",
+        "kingdom": "Snow",
+        "time": "35.90",
+        "authors": [
+            "Mighty Owl"
+        ],
+        "video": "https://www.youtube.com/watch?v=AEaCpz7G-hI",
+        "thumbnail": "https://i.ytimg.com/vi/AEaCpz7G-hI/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/985511416083673148/Goomba-Room.txt",
+        "setup": "Exit Goomba Room using the entrance door or run \"tp -6004.660 -4726.744 9129.912\" while in shiveria",
+        "version": "1.0",
+        "notes": "Reverse ICC might be faster but hasn't been TASed yet",
+        "date": "20220612"
+    },
+    {
+        "id": 78,
+        "name": "Moon Kingdom Koopa Freerunning",
+        "kingdom": "Moon",
+        "time": "29.45",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/sZB6kCrve18",
+        "thumbnail": "https://i.ytimg.com/vi/sZB6kCrve18/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/984683332161904700/moon-kfr-2945.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20220610"
+    },
+    {
+        "id": 77,
+        "name": "Pitchblack Mountain",
+        "kingdom": "Metro",
+        "time": "27.83",
+        "authors": [
+            "Mighty Owl"
+        ],
+        "video": "https://www.youtube.com/watch?v=EMflu1uNxI8",
+        "thumbnail": "https://i.ytimg.com/vi/EMflu1uNxI8/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/891594603717865542/962323046193049670/ogre.txt",
+        "setup": "Type \"go DonsukeExStage 8 donsuke true\" into the server",
+        "version": "1.0",
+        "notes": "??",
+        "date": "20220507"
+    },
+    {
+        "id": 76,
+        "name": "Luncheon Magma Sub Area",
+        "kingdom": "Luncheon",
+        "time": "8.620",
+        "authors": [
+            "Mighty Owl"
+        ],
+        "video": "https://www.youtube.com/watch?v=U0lMtO-Sx2I",
+        "thumbnail": "https://i.ytimg.com/vi/U0lMtO-Sx2I/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/967330980841021460/shardssub.txt",
+        "setup": "Type \"go LavaWorldHomeStage 1 KeyMoveEx true\" into the server",
+        "version": "1.0",
+        "notes": "??",
+        "date": "20220423"
+    },
+    {
+        "id": 75,
+        "name": "Employees only moon clip",
+        "kingdom": "Sand",
+        "time": "??",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://cdn.discordapp.com/attachments/829298026723016724/962738871936888832/employees.mp4",
+        "thumbnail": "https://media.discordapp.net/attachments/927988891670171679/1016657715990376528/unknown.png?width=320&height=180",
+        "script": "Not available",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20220410"
+    },
+    {
+        "id": 74,
+        "name": "Luncheon Cheese Room to Magma Room",
+        "kingdom": "Luncheon",
+        "time": "1:05.40",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=v_w2E9-DD6I",
+        "thumbnail": "https://i.ytimg.com/vi/v_w2E9-DD6I/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/943906230643073084/cheese-to-magma.txt",
+        "setup": "Type \"go LavaWorldHomeStage 1 MartinCubeEx true\" into the server",
+        "version": "1.0",
+        "notes": "??",
+        "date": "20220217"
+    },
+    {
+        "id": 73,
+        "name": "Shards Room to Luncheon Slots",
+        "kingdom": "Luncheon",
+        "time": "18.25",
+        "authors": [
+            "FT"
+        ],
+        "video": "https://www.youtube.com/watch?v=4vKf1vGJn7c",
+        "thumbnail": "https://i.ytimg.com/vi/4vKf1vGJn7c/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/942956136947126312/ShardsRoomtoLuncheonSlots.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "??",
+        "date": "20220215"
+    },
+    {
+        "id": 72,
+        "name": "Metro Tower Exit",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "Pinkatie"
+        ],
+        "video": "https://youtu.be/d8xqAGuisSo",
+        "thumbnail": "https://i.ytimg.com/vi/d8xqAGuisSo/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220209"
+    },
+    {
+        "id": 71,
+        "name": "Lake Kingdom Koopa Freerunning",
+        "kingdom": "Lake",
+        "time": "15.88",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/N3UAD2lpi9E",
+        "thumbnail": "https://i.ytimg.com/vi/N3UAD2lpi9E/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/197Kbe635L-3NEiq3XFkuqC7PnFqYBa0S/view?usp=sharing",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20220209"
+    },
+    {
+        "id": 70,
+        "name": "Seaside Sphinx Room",
+        "kingdom": "Seaside",
+        "time": "??",
+        "authors": [
+            "Wallonice"
+        ],
+        "video": "https://www.youtube.com/watch?v=9B3iWEbCoCc",
+        "thumbnail": "https://i.ytimg.com/vi/9B3iWEbCoCc/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/832720420238000178/937801276903817246/sphonx.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "??",
+        "date": "20220205"
+    },
+    {
+        "id": 69,
+        "name": "Seaside Warp",
+        "kingdom": "Seaside",
+        "time": "??",
+        "authors": [
+            "Wallonice"
+        ],
+        "video": "https://www.youtube.com/watch?v=WYK8XoTzvI8",
+        "thumbnail": "https://i.ytimg.com/vi/WYK8XoTzvI8/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/832720420238000178/937823329379823646/sphonx.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "??",
+        "date": "20220205"
+    },
+    {
+        "id": 68,
+        "name": "Snow Kingdom Koopa Freerunning",
+        "kingdom": "Snow",
+        "time": "11.61",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/f2PBOoxxOvM",
+        "thumbnail": "https://i.ytimg.com/vi/f2PBOoxxOvM/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1I12SChC8KNLHPJLUw-rebAwgp6Kp5zB6/view?usp=sharing",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20220203"
+    },
+    {
+        "id": 67,
+        "name": "Start of Sand to Pillar",
+        "kingdom": "Sand",
+        "time": "??",
+        "authors": [
+            "Mars2030",
+            "Wallonice"
+        ],
+        "video": "https://youtu.be/1gJ1VBXLH6k",
+        "thumbnail": "https://i.ytimg.com/vi/1gJ1VBXLH6k/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220201"
+    },
+    {
+        "id": 66,
+        "name": "Seaside Rumble to Through the Jetstream",
+        "kingdom": "Seaside",
+        "time": "8.680",
+        "authors": [
+            "Wallonice"
+        ],
+        "video": "https://www.youtube.com/watch?v=Qz0fmP9lu4w",
+        "thumbnail": "https://i.ytimg.com/vi/Qz0fmP9lu4w/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/832720420238000178/937118632008364032/script4_1_1.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20220129"
+    },
+    {
+        "id": 65,
+        "name": "Snow Shop to Tyfoo Room",
+        "kingdom": "Snow",
+        "time": "22.85",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=d_iHHdtSPzo",
+        "thumbnail": "https://i.ytimg.com/vi/d_iHHdtSPzo/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1FUyCg_ThAPSsQiXgm4qvGwRxah4M2XoB/view?usp=sharing",
+        "setup": "Enter Shop",
+        "version": "1.0",
+        "notes": "Has a load",
+        "date": "20220127"
+    },
+    {
+        "id": 64,
+        "name": "Night Metro Wiggler Demo",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/JPfuoTnc5mQ",
+        "thumbnail": "https://i.ytimg.com/vi/JPfuoTnc5mQ/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20220125"
+    },
+    {
+        "id": 63,
+        "name": "Exit Tower to Enter Wiggler",
+        "kingdom": "Metro",
+        "time": "7.800",
+        "authors": [
+            "MFG"
+        ],
+        "video": "https://www.youtube.com/watch?v=nvbtjQ5aTWM",
+        "thumbnail": "https://i.ytimg.com/vi/nvbtjQ5aTWM/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/940772177815425074/new-mte.txt",
+        "setup": "Type \"go CityWorldHomeStage 1 main_exit true\" into the server",
+        "version": "1.0",
+        "notes": "??",
+        "date": "20220125"
+    },
+    {
+        "id": 62,
+        "name": "Mysterious Clouds Room",
+        "kingdom": "Cascade",
+        "time": "??",
+        "authors": [
+            "Wallonice"
+        ],
+        "video": "https://www.youtube.com/watch?v=iITwhp6nW5I",
+        "thumbnail": "https://i.ytimg.com/vi/iITwhp6nW5I/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/925839803377934387/clouds.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211229"
+    },
+    {
+        "id": 61,
+        "name": "Bowser's Kingdom Koopa Freerunning in 1:02.98",
+        "kingdom": "Bowsers",
+        "time": "1:02.98",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/2uWhP4n8qnw",
+        "thumbnail": "https://i.ytimg.com/vi/2uWhP4n8qnw/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/19NXXC-dyIi8ghzUoXFCk-NHDMGcI8xxR/view?usp=sharing",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211229"
+    },
+    {
+        "id": 60,
+        "name": "Bullet Billding",
+        "kingdom": "Metro",
+        "time": "23.98",
+        "authors": [
+            "Wallonice"
+        ],
+        "video": "https://www.youtube.com/watch?v=Pq_P_o9JM_Q",
+        "thumbnail": "https://i.ytimg.com/vi/Pq_P_o9JM_Q/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/925096580850270218/billding.txt",
+        "setup": "Input \"go PoleKillerExStage 1 bou true\" into the server",
+        "version": "??",
+        "notes": "??",
+        "date": "20211227"
+    },
+    {
+        "id": 59,
+        "name": "2P Bowser Start to Ogre Story Moon",
+        "kingdom": "Bowsers",
+        "time": "39.08",
+        "authors": [
+            "Orolmë"
+        ],
+        "video": "https://youtu.be/A2N_i8g7XtQ",
+        "thumbnail": "https://img.youtube.com/vi/A2N_i8g7XtQ/hqdefault.jpg",
+        "script": "https://drive.google.com/drive/folders/1AGoJT1VzyArQrepKa5BYBvEdw83DAff2",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211222"
+    },
+    {
+        "id": 58,
+        "name": "Min Caps Metro CRC (Warp)",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "Relaxmas"
+        ],
+        "video": "https://www.youtube.com/watch?v=6vAK40W5JB4",
+        "thumbnail": "https://i.ytimg.com/vi/6vAK40W5JB4/mqdefault.jpg",
+        "script": "https://drive.google.com/drive/folders/1Bc9uu9M4EIATcFWb1xd5992M4G6Egbot",
+        "setup": "??",
+        "version": "??",
+        "notes": "High camera sensitivity",
+        "date": "20211219"
+    },
+    {
+        "id": 57,
+        "name": "Min Caps Metro CRC (Death)",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "Relaxmas"
+        ],
+        "video": "https://www.youtube.com/watch?v=mX02LMsukpU",
+        "thumbnail": "https://i.ytimg.com/vi/mX02LMsukpU/mqdefault.jpg",
+        "script": "https://drive.google.com/drive/folders/1Bc9uu9M4EIATcFWb1xd5992M4G6Egbot",
+        "setup": "??",
+        "version": "??",
+        "notes": "High camera sensitivity",
+        "date": "20211219"
+    },
+    {
+        "id": 56,
+        "name": "2P Luncheon Kingdom - 5:05",
+        "kingdom": "Luncheon",
+        "time": "5:05.22",
+        "authors": [
+            "Orolmë"
+        ],
+        "video": "https://youtu.be/2MKUr5RdhUw",
+        "thumbnail": "https://img.youtube.com/vi/2MKUr5RdhUw/hqdefault.jpg",
+        "script": "https://drive.google.com/drive/folders/1V8fZk45XynSDhqeJoY8tAXkO4AmFgeo2",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211213"
+    },
+    {
+        "id": 55,
+        "name": "2P Lake Kingdom - 2:31",
+        "kingdom": "Lake",
+        "time": "2:31.27",
+        "authors": [
+            "Orolmë"
+        ],
+        "video": "https://youtu.be/Gvb29RIOlM4",
+        "thumbnail": "https://img.youtube.com/vi/Gvb29RIOlM4/hqdefault.jpg",
+        "script": "https://drive.google.com/drive/folders/1QJNpIC_wmbgDSWvAIErYemJJUqfoQoVC",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211205"
+    },
+    {
+        "id": 54,
+        "name": "2P Bowser Mech Fight",
+        "kingdom": "Bowsers",
+        "time": "??",
+        "authors": [
+            "Orolmë"
+        ],
+        "video": "https://youtu.be/6E6WWn9mduw",
+        "thumbnail": "https://img.youtube.com/vi/6E6WWn9mduw/hqdefault.jpg",
+        "script": "https://drive.google.com/drive/folders/1jplmkgmBSLZSkv8edfpr9IlfdHZDxFAt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211204"
+    },
+    {
+        "id": 53,
+        "name": "Luncheon Kingdom Koopa Freerunning",
+        "kingdom": "Luncheon",
+        "time": "8.900",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/gb8ESNdfhvk",
+        "thumbnail": "https://i.ytimg.com/vi/gb8ESNdfhvk/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1_7s5eSvjJwSxf_u2eFHgwWa4kIeahpkC/view",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211128"
+    },
+    {
+        "id": 52,
+        "name": "Hariet Fight",
+        "kingdom": "Bowsers",
+        "time": "41.10",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=74KxIcmR8HQ",
+        "thumbnail": "https://i.ytimg.com/vi/74KxIcmR8HQ/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1baTvRZ0fiC8W8fwaNjECdAglZOvFcpW-/view",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211125"
+    },
+    {
+        "id": 51,
+        "name": "Cathedral to Ring Cutscene",
+        "kingdom": "Moon",
+        "time": "??",
+        "authors": [
+            "Tiewarn"
+        ],
+        "video": "https://cdn.discordapp.com/attachments/829263133776412672/912223936777961502/2021-11-22_16-57-09.mp4",
+        "thumbnail": "https://i.ytimg.com/vi/KN_U7rhlJ1M/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/912223970261094400/weddingdestroyer.exe.txt",
+        "setup": "Start script during load??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211122"
+    },
+    {
+        "id": 50,
+        "name": "2P Snow Dram",
+        "kingdom": "Snow",
+        "time": "??",
+        "authors": [
+            "JoniKauf"
+        ],
+        "video": "https://youtu.be/y1LrazhPHqw",
+        "thumbnail": "https://i.ytimg.com/vi/y1LrazhPHqw/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/905624391210131466/script0-1.txt https://cdn.discordapp.com/attachments/829263133776412672/905624408297713694/script0-2.txt",
+        "setup": "Warp to the checkpoint",
+        "version": "??",
+        "notes": "??",
+        "date": "20211104"
+    },
+    {
+        "id": 49,
+        "name": "Full Cascade Kingdom",
+        "kingdom": "Cascade",
+        "time": "2:50.533",
+        "authors": [
+            "Tiewarn",
+            "Mars2030"
+        ],
+        "video": "https://youtu.be/MUijOMkROGM",
+        "thumbnail": "https://i.ytimg.com/vi/MUijOMkROGM/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20211013"
+    },
+    {
+        "id": 48,
+        "name": "Enter Sand Kingdom to Employees Only",
+        "kingdom": "Sand",
+        "time": "16.03",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://www.youtube.com/watch?v=SsZ0IZZmOII",
+        "thumbnail": "https://i.ytimg.com/vi/SsZ0IZZmOII/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/897321154396708864/script0-1.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211012"
+    },
+    {
+        "id": 47,
+        "name": "Enter Cascade to Our First Power Moon",
+        "kingdom": "Cascade",
+        "time": "??",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://www.youtube.com/watch?v=gsYE5Sad7k0",
+        "thumbnail": "https://i.ytimg.com/vi/gsYE5Sad7k0/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/895097961900548116/script0-1.txt",
+        "setup": "Start after cap wakeup",
+        "version": "Any",
+        "notes": "Needs this mod: https://cdn.discordapp.com/attachments/829263133776412672/895101534281547787/CapWorldHomeStageMap.szs",
+        "date": "20211005"
+    },
+    {
+        "id": 46,
+        "name": "Wooded Kingdom Koopa Freerunning",
+        "kingdom": "Wooded",
+        "time": "15.48",
+        "authors": [
+            "Wallonice"
+        ],
+        "video": "https://youtu.be/o_JZS5VfPnc",
+        "thumbnail": "https://img.youtube.com/vi/o_JZS5VfPnc/hqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/894221558221013032/script6.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20211003"
+    },
+    {
+        "id": 45,
+        "name": "Night Metro Tower Climb",
+        "kingdom": "Metro",
+        "time": "23.08",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=Apg7_Vv2Kps",
+        "thumbnail": "https://i.ytimg.com/vi/Apg7_Vv2Kps/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/893603443044941844/night_metro_tower_v2.txt",
+        "setup": "Exit tower (bottom entrance)",
+        "version": "Any",
+        "notes": "Has a load",
+        "date": "20211001"
+    },
+    {
+        "id": 44,
+        "name": "Warp City Hall to People Room",
+        "kingdom": "Metro",
+        "time": "46.80",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=jk2NNZdp3Y4",
+        "thumbnail": "https://i.ytimg.com/vi/jk2NNZdp3Y4/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/13MGLRD12N2ANd-6Z-Mdf9zATc3oZSMSe/view?usp=sharing",
+        "setup": "Prepare for warp A press",
+        "version": "Any",
+        "notes": "Has a load",
+        "date": "20211001"
+    },
+    {
+        "id": 43,
+        "name": "Employees Only",
+        "kingdom": "Sand",
+        "time": "8.220",
+        "authors": [
+            "Flavien"
+        ],
+        "video": "https://www.youtube.com/watch?v=7wNe897fRSM",
+        "thumbnail": "https://i.ytimg.com/vi/7wNe897fRSM/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/892852247082442852/flavien_employees_only.txt",
+        "setup": "Start after leaving employees only",
+        "version": "Any",
+        "notes": "",
+        "date": "20210929"
+    },
+    {
+        "id": 42,
+        "name": "Our First Power Moon to Multimoon Atop the Falls",
+        "kingdom": "Cascade",
+        "time": "27.78",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://cdn.discordapp.com/attachments/829263133776412672/891407330422439956/yuzu.exe_2021.09.25_-_15.28.40.41.DVR.mp4",
+        "thumbnail": "https://media.discordapp.net/attachments/927988891670171679/992101652096106617/unknown.png?width=320&height=180",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/891407359048556544/script0-1.txt",
+        "setup": "??",
+        "version": "Any",
+        "notes": "Needs first moon rock",
+        "date": "20210925"
+    },
+    {
+        "id": 41,
+        "name": "Exit Forks to Enter Cheese",
+        "kingdom": "Luncheon",
+        "time": "8.830",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=2CMT1Q4nzTc",
+        "thumbnail": "https://i.ytimg.com/vi/2CMT1Q4nzTc/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/891104105924296734/salt_clip.txt",
+        "setup": "Enter fork room",
+        "version": "1.3",
+        "notes": "Has a load, very high camera speed",
+        "date": "20210924"
+    },
+    {
+        "id": 40,
+        "name": "Mushroom Kingdom Koopa Freerunning",
+        "kingdom": "Mushroom",
+        "time": "11.68",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/bgri_weJLVY",
+        "thumbnail": "https://i.ytimg.com/vi/bgri_weJLVY/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1yVk4P6bXHd-9706x8tpPkbXqBO7nKwfN/view?usp=sharing",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20210915"
+    },
+    {
+        "id": 39,
+        "name": "Metro Kingdom Koopa Freerunning",
+        "kingdom": "Metro",
+        "time": "12.98",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/jZnLxKWrg1M",
+        "thumbnail": "https://i.ytimg.com/vi/jZnLxKWrg1M/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/886977950786945035/metro_kfr_sub_13.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20210913"
+    },
+    {
+        "id": 38,
+        "name": "Sand rumble room",
+        "kingdom": "Sand",
+        "time": "8.080",
+        "authors": [
+            "Tiewarn"
+        ],
+        "video": "https://www.youtube.com/watch?v=r4r7k_8Q6-8",
+        "thumbnail": "https://i.ytimg.com/vi/r4r7k_8Q6-8/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/879766287964860456/script0-1_-_Copy.txt",
+        "setup": "exit rumble room and wait until landing to run script",
+        "version": "1.3",
+        "notes": "Has a load, previous segments by QFlame/Mars2030/FT",
+        "date": "20210824"
+    },
+    {
+        "id": 37,
+        "name": "Full Cap Kingdom",
+        "kingdom": "Cap",
+        "time": "2:11.983",
+        "authors": [
+            "Qflame",
+            "Jadefalke",
+            "Dr. Agoti",
+            "Mars2030"
+        ],
+        "video": "https://youtu.be/oMI796qC6xs",
+        "thumbnail": "https://i.ytimg.com/vi/oMI796qC6xs/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20210822"
+    },
+    {
+        "id": 36,
+        "name": "Enter Bowser's Kingdom to Ogre Story Moon",
+        "kingdom": "Bowsers",
+        "time": "41.17",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=p8MbRUGUbS4",
+        "thumbnail": "https://i.ytimg.com/vi/p8MbRUGUbS4/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1ynna7bZDhI69ItGiYa4zoK3DQiiZA7KL/view?usp=sharing",
+        "setup": "Make the cutscene skip dialogue appear for the second-to-last cutscene but don't press A",
+        "version": "1.3",
+        "notes": "",
+        "date": "20210816"
+    },
+    {
+        "id": 35,
+        "name": "Cap Topper",
+        "kingdom": "Cap",
+        "time": "38.15",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://video.twimg.com/ext_tw_video/1425994915679514625/pu/vid/1280x720/MJBb3RBQNQ3VcmVu.mp4?tag=12",
+        "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1425219873748176897/pu/img/FkMwkFOf9z8_glf0.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/875554297675415583/script3.txt",
+        "setup": "Click \"plus\" but don't skip the cutscene then run the script",
+        "version": "Any",
+        "notes": "",
+        "date": "20210813"
+    },
+    {
+        "id": 34,
+        "name": "Sphynx Room Enter to Luggage Warp",
+        "kingdom": "Sand",
+        "time": "24.37",
+        "authors": [
+            "Tiewarn"
+        ],
+        "video": "https://www.youtube.com/watch?v=M3iZ7A6tBEQ",
+        "thumbnail": "https://i.ytimg.com/vi/M3iZ7A6tBEQ/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/874599232819068948/sphynx_to_luggage_full_TAS.txt",
+        "setup": "Start after leaving sphynx room",
+        "version": "1.0",
+        "notes": "",
+        "date": "20210810"
+    },
+    {
+        "id": 33,
+        "name": "Cap Wakeup to Top Hat Tower",
+        "kingdom": "Cap",
+        "time": "35.22",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://video.twimg.com/ext_tw_video/1425219873748176897/pu/vid/1280x720/GnFRFWSNI9u5LZw0.mp4?tag=12",
+        "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1425219873748176897/pu/img/FkMwkFOf9z8_glf0.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/874779770271977512/script11.txt",
+        "setup": "Start at B press prompt",
+        "version": "1.3",
+        "notes": "",
+        "date": "20210810"
+    },
+    {
+        "id": 32,
+        "name": "Seaside Rumble Room",
+        "kingdom": "Seaside",
+        "time": "8.530",
+        "authors": [
+            "Tiewarn"
+        ],
+        "video": "https://www.youtube.com/watch?v=2wj6TZj1Ct8",
+        "thumbnail": "https://i.ytimg.com/vi/2wj6TZj1Ct8/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/872821924944810014/Seaside_Rumble_Room_v2_-_Copy.txt",
+        "setup": "Start during load",
+        "version": "1.0",
+        "notes": "",
+        "date": "20210805"
+    },
+    {
+        "id": 31,
+        "name": "Bunnies Story Moon to Mech Fight",
+        "kingdom": "Bowsers",
+        "time": "1:00.15",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=S3YhBGeeqRg",
+        "thumbnail": "https://i.ytimg.com/vi/S3YhBGeeqRg/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/872257390991515678/pipeless.txt",
+        "setup": "Have both broodals beaten, prepare for warp A press for Main Courtyard Entrance CP",
+        "version": "1.3",
+        "notes": "Has a load before the segment starts, needs a 6f spinpound after the warp and good spiny positioning to work",
+        "date": "20210803"
+    },
+    {
+        "id": 30,
+        "name": "2P Rango to Lakeshore",
+        "kingdom": "Lake",
+        "time": "??",
+        "authors": [
+            "Orolmë",
+            "Sknoll18"
+        ],
+        "video": "https://youtu.be/OFLofu9HdYI",
+        "thumbnail": "https://img.youtube.com/vi/OFLofu9HdYI/hqdefault.jpg",
+        "script": "https://www.dropbox.com/sh/34c0ns4fvtv7im2/AACRKU8ZSKlOf2xlQ5DiHw_Ra?dl=0",
+        "setup": "Stand under the multimoon",
+        "version": "??",
+        "notes": "??",
+        "date": "20210729"
+    },
+    {
+        "id": 29,
+        "name": "Luncheon Slots",
+        "kingdom": "Luncheon",
+        "time": "13.65",
+        "authors": [
+            "matthewpugs24"
+        ],
+        "video": "https://www.youtube.com/watch?v=Gh2aCXdnZRk",
+        "thumbnail": "https://img.youtube.com/vi/Gh2aCXdnZRk/hqdefault.jpg ",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/866745363080020008/script0-1.txt",
+        "setup": "Enter slots and don't move/start during load",
+        "version": "1.3",
+        "notes": "Text changes if you've collected the moon before with practice mod",
+        "date": "20210719"
+    },
+    {
+        "id": 28,
+        "name": "Bowser Dram",
+        "kingdom": "Bowsers",
+        "time": "34.10",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=EvbPNqeE6K0",
+        "thumbnail": "https://i.ytimg.com/vi/EvbPNqeE6K0/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1ksllV_g2ZwgXkRnaFdaRxGv1AahwPbI6/view?usp=sharing",
+        "setup": "Position mario under the story moon",
+        "version": "Any",
+        "notes": "",
+        "date": "20210704"
+    },
+    {
+        "id": 27,
+        "name": "Flooding Pipeway and Globe Mashing",
+        "kingdom": "Wooded",
+        "time": "45.48",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/btVWbX0vFGs",
+        "thumbnail": "https://i.ytimg.com/vi/btVWbX0vFGs/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1tpTP10LoyMyUA2SDhSpBpmRE7M80K83D/view?usp=sharing",
+        "setup": "Exit Flooding Pipeway",
+        "version": "Any",
+        "notes": "Has a load",
+        "date": "20210629"
+    },
+    {
+        "id": 26,
+        "name": "Top Hat Tower Entrance to Exit",
+        "kingdom": "Cap",
+        "time": "18.13",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://www.youtube.com/watch?v=Ue6Fhp1EFWQ",
+        "thumbnail": "https://img.youtube.com/vi/Ue6Fhp1EFWQ/hqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/854153669531795466/frogroom.txt",
+        "setup": "Exit Tower (bottom entrance)",
+        "version": "Any",
+        "notes": "Has a load",
+        "date": "20210615"
+    },
+    {
+        "id": 25,
+        "name": "Sky Garden Tower to Flooding Pipeway",
+        "kingdom": "Wooded",
+        "time": "24.18",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=UmMxwNTnwQE",
+        "thumbnail": "https://i.ytimg.com/vi/UmMxwNTnwQE/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/854097294961016832/wooded_tower_to_pipe.txt",
+        "setup": "Enter tower (top entrance)",
+        "version": "Any",
+        "notes": "Has a load",
+        "date": "20210614"
+    },
+    {
+        "id": 24,
+        "name": "Wooded Sky Garden Tower",
+        "kingdom": "Wooded",
+        "time": "21.40",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://www.youtube.com/watch?v=DeCzebdX_sE",
+        "thumbnail": "https://i.ytimg.com/vi/DeCzebdX_sE/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/851900387970646057/wooded_tower.txt",
+        "setup": "Exit tower",
+        "version": "Any",
+        "notes": "Has a load",
+        "date": "20210608"
+    },
+    {
+        "id": 23,
+        "name": "KFREC \"Cap Under the Bridge\"",
+        "kingdom": "Cap",
+        "time": "20.73",
+        "authors": [
+            "NiklYoshi"
+        ],
+        "video": "https://youtu.be/uCmiCQ3fL1k",
+        "thumbnail": "https://i.ytimg.com/vi/uCmiCQ3fL1k/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/838449668266131456/850663386371194880/TAS_Cap_Under_the_Bridge.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20210605"
+    },
+    {
+        "id": 22,
+        "name": "Seaside Koopa Freerunning To Gushen",
+        "kingdom": "Seaside",
+        "time": "11.08",
+        "authors": [
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/uXshmaPY2Zs",
+        "thumbnail": "https://img.youtube.com/vi/uXshmaPY2Zs/hqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1HkcB2cQqsdUT7CsUCpEBQQvU_wB3-eki/view",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20210531"
+    },
+    {
+        "id": 21,
+        "name": "Loose Tile Trackdown",
+        "kingdom": "Mushroom",
+        "time": "??",
+        "authors": [
+            "GoodGoomba"
+        ],
+        "video": "https://www.youtube.com/watch?v=AfkZLhyRAo8",
+        "thumbnail": "https://i.ytimg.com/vi/AfkZLhyRAo8/mqdefault.jpg",
+        "script": "https://pastebin.com/wsRW2VKB",
+        "setup": "Enter the castle",
+        "version": "??",
+        "notes": "??",
+        "date": "20210528"
+    },
+    {
+        "id": 20,
+        "name": "Frogless",
+        "kingdom": "Cap",
+        "time": "??",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://www.youtube.com/watch?v=8cT0OArjlW4",
+        "thumbnail": "https://img.youtube.com/vi/8cT0OArjlW4/hqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016411683314466886/frogless.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20210525"
+    },
+    {
+        "id": 19,
+        "name": "2P Our First Power Moon - Start Fight",
+        "kingdom": "Cascade",
+        "time": "13.77",
+        "authors": [
+            "Orolmë"
+        ],
+        "video": "https://youtu.be/WBsv59y1Ci0",
+        "thumbnail": "https://i.ytimg.com/vi/WBsv59y1Ci0/mqdefault.jpg",
+        "script": "https://www.dropbox.com/sh/8vjz5if7c0ao9c1/AABIlXc4O_pMDcYgvWPaT2yMa?dl=0",
+        "setup": "Even though Mario is perfectly placed on this clip at start, I didn't took the moon with cutscene and dialogue (due to practice mod, but I grabbed it). So it seems not possible to run this script successfully without practice mod, probably cause camera angle might change a bit",
+        "version": "1.3",
+        "notes": "??",
+        "date": "20210525"
+    },
+    {
+        "id": 18,
+        "name": "Exit Top Hat Tower to Topper Fight",
+        "kingdom": "Cap",
+        "time": "6.230",
+        "authors": [
+            "Qflame",
+            "Jadefalke",
+            "Dr. Agoti",
+            "Mars2030"
+        ],
+        "video": "https://www.youtube.com/watch?v=V8QFsbCLjYI",
+        "thumbnail": "https://i.ytimg.com/vi/V8QFsbCLjYI/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016412052488716418/leftside.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "",
+        "date": "20210516"
+    },
+    {
+        "id": 17,
+        "name": "Cascade start to first moon",
+        "kingdom": "Cascade",
+        "time": "??",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://cdn.discordapp.com/attachments/829263133776412672/838458319097561139/firstmoon.mp4",
+        "thumbnail": "https://media.discordapp.net/attachments/927988891670171679/992100264683241472/unknown.png?width=320&height=180",
+        "script": "https://cdn.discordapp.com/attachments/838449515639865354/838457431490953266/firstmoonscript.txt",
+        "setup": "Do nothing after skipping all \"first visit\" cutscenes",
+        "version": "1.0",
+        "notes": "No time due to start",
+        "date": "20210502"
+    },
+    {
+        "id": 16,
+        "name": "Taking notes in private room",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "aspyn"
+        ],
+        "video": "https://cdn.discordapp.com/attachments/829263133776412672/836792020012892240/AT-cm_1154888321.mp4",
+        "thumbnail": "https://media.discordapp.net/attachments/927988891670171679/992063699730841693/unknown.png?width=320&height=180",
+        "script": "https://cdn.discordapp.com/attachments/838449581879459901/838832460837814332/script1.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20210428"
+    },
+    {
+        "id": 15,
+        "name": "Bowser Mech Fight",
+        "kingdom": "Bowsers",
+        "time": "??",
+        "authors": [
+            "Mars2030",
+            "FT",
+            "Wallonice"
+        ],
+        "video": "https://www.youtube.com/watch?v=_MLAm2Kun88",
+        "thumbnail": "https://i.ytimg.com/vi/_MLAm2Kun88/mqdefault.jpg",
+        "script": "https://pastebin.com/kQVq2PSs",
+        "setup": "Go inside the wire before the mech fight but don't move",
+        "version": "1.3",
+        "notes": "",
+        "date": "20210425"
+    },
+    {
+        "id": 14,
+        "name": "Crate to Alcove",
+        "kingdom": "Sand",
+        "time": "??",
+        "authors": [
+            "FT"
+        ],
+        "video": "https://www.youtube.com/watch?v=EoTBwS2bpo4",
+        "thumbnail": "https://i.ytimg.com/vi/EoTBwS2bpo4/mqdefault.jpg",
+        "script": "Not available",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20210414"
+    },
+    {
+        "id": 13,
+        "name": "??",
+        "kingdom": "Cascade",
+        "time": "??",
+        "authors": [
+            "FT"
+        ],
+        "video": "https://www.youtube.com/watch?v=8MjroYZDoCQ",
+        "thumbnail": "https://i.ytimg.com/vi/8MjroYZDoCQ/mqdefault.jpg",
+        "script": "Not available",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20210118"
+    },
+    {
+        "id": 12,
+        "name": "Ice Clip",
+        "kingdom": "Sand",
+        "time": "??",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://video.twimg.com/ext_tw_video/1311461080145690624/pu/vid/1280x720/GZqfhMox6ZoBVJ75.mp4?tag=10",
+        "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1311461080145690624/pu/img/ZMNWuw9sXJZ3fcW6.jpg",
+        "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016411198037692558/iceclip-script.txt",
+        "setup": "Warp to atop the highest tower checkpoint",
+        "version": "1.0",
+        "notes": "Has a load",
+        "date": "20201001"
+    },
+    {
+        "id": 11,
+        "name": "3 Captures - Nut Jumping",
+        "kingdom": "Bowsers",
+        "time": "??",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://youtu.be/tr_Lbuui2nE",
+        "thumbnail": "https://i.ytimg.com/vi/tr_Lbuui2nE/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829298026723016724/1054486078993735720/nutjump1-script.txt",
+        "setup": "Start in the top wire in Bowsers, see video",
+        "version": "1.0",
+        "notes": "Player 2: https://cdn.discordapp.com/attachments/829298026723016724/1054486079329275924/nutjump2-script.txt",
+        "date": "20200914"
+    },
+    {
+        "id": 10,
+        "name": "2p Any% BTT Pole Snipe",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://www.youtube.com/watch?v=NK7gk4IqBf8",
+        "thumbnail": "https://img.youtube.com/vi/NK7gk4IqBf8/hqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/838449790680825877/1016412496288022611/pole1-script.txt https://cdn.discordapp.com/attachments/838449790680825877/1016412496476774520/pole2-script.txt",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20200825"
+    },
+    {
+        "id": 9,
+        "name": "Moon Mashing",
+        "kingdom": "Moon",
+        "time": "29.37",
+        "authors": [
+            "Qflame"
+        ],
+        "video": "https://youtu.be/hjlab5G6oB4",
+        "thumbnail": "https://i.ytimg.com/vi/hjlab5G6oB4/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20200424"
+    },
+    {
+        "id": 8,
+        "name": "Bowser's Mashing",
+        "kingdom": "Bowsers",
+        "time": "18.25",
+        "authors": [
+            "Qflame"
+        ],
+        "video": "https://youtu.be/sN_5jJ6gbOI",
+        "thumbnail": "https://i.ytimg.com/vi/sN_5jJ6gbOI/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20200424"
+    },
+    {
+        "id": 7,
+        "name": "Luncheon Mashing",
+        "kingdom": "Luncheon",
+        "time": "28.67",
+        "authors": [
+            "Qflame"
+        ],
+        "video": "https://youtu.be/R0aXGklzbv4",
+        "thumbnail": "https://i.ytimg.com/vi/R0aXGklzbv4/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20200416"
+    },
+    {
+        "id": 6,
+        "name": "Seaside Mashing",
+        "kingdom": "Seaside",
+        "time": "29.38",
+        "authors": [
+            "Qflame"
+        ],
+        "video": "https://youtu.be/TqTcWZo-QHo",
+        "thumbnail": "https://i.ytimg.com/vi/TqTcWZo-QHo/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20200416"
+    },
+    {
+        "id": 5,
+        "name": "Snow Mashing",
+        "kingdom": "Snow",
+        "time": "29.93",
+        "authors": [
+            "Qflame"
+        ],
+        "video": "https://youtu.be/SrPM6wQCXV4",
+        "thumbnail": "https://i.ytimg.com/vi/SrPM6wQCXV4/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20200416"
+    },
+    {
+        "id": 4,
+        "name": "Metro Mashing TAS",
+        "kingdom": "Metro",
+        "time": "18.35",
+        "authors": [
+            "Qflame"
+        ],
+        "video": "https://youtu.be/K6ytMvY9MsY",
+        "thumbnail": "https://i.ytimg.com/vi/K6ytMvY9MsY/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20200416"
+    },
+    {
+        "id": 3,
+        "name": "Cloud Mashing TAS",
+        "kingdom": "Cloud",
+        "time": "23.42",
+        "authors": [
+            "Qflame"
+        ],
+        "video": "https://youtu.be/ijOhYrmtecI",
+        "thumbnail": "https://i.ytimg.com/vi/ijOhYrmtecI/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20200416"
+    },
+    {
+        "id": 2,
+        "name": "Sand Mashing",
+        "kingdom": "Sand",
+        "time": "33.78",
+        "authors": [
+            "Qflame"
+        ],
+        "video": "https://youtu.be/_ZX8vjRM4cQ",
+        "thumbnail": "https://i.ytimg.com/vi/_ZX8vjRM4cQ/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20200317"
+    },
+    {
+        "id": 1,
+        "name": "Seaside start to High moon",
+        "kingdom": "Seaside",
+        "time": "09.48",
+        "authors": [
+            "CMFP"
+        ],
+        "video": "https://www.youtube.com/watch?v=jSlnd-T29Yw",
+        "thumbnail": "https://i.ytimg.com/vi/jSlnd-T29Yw/mqdefault.jpg",
+        "script": "https://pastebin.com/iDyPK0r3",
+        "setup": "??",
+        "version": "1.3",
+        "notes": "",
+        "date": "20190609"
+    },
+    {
+        "id": 0,
+        "name": "Rumble to enter employees only",
+        "kingdom": "Sand",
+        "time": "10.97",
+        "authors": [
+            "CMFP"
+        ],
+        "video": "https://www.youtube.com/watch?v=BQ0KhZVaPkU",
+        "thumbnail": "https://i.ytimg.com/vi/BQ0KhZVaPkU/mqdefault.jpg",
+        "script": "https://pastebin.com/knagZqXE",
+        "setup": "??",
+        "version": "??",
+        "notes": "??",
+        "date": "20190601"
+    }
 ]
