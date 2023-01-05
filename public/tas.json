@@ -1535,7 +1535,7 @@
     },
     {
         "id": 11,
-        "name": "3 Captures - Nut Jumping",
+        "name": "3 Captures - Nut Jumping (2P)",
         "kingdom": "Bowsers",
         "time": "??",
         "authors": [
@@ -1543,10 +1543,10 @@
         ],
         "video": "https://youtu.be/tr_Lbuui2nE",
         "thumbnail": "https://i.ytimg.com/vi/tr_Lbuui2nE/mqdefault.jpg",
-        "script": "https://cdn.discordapp.com/attachments/829298026723016724/1054486078993735720/nutjump1-script.txt",
+        "script": "https://cdn.discordapp.com/attachments/829298026723016724/1054486078993735720/nutjump1-script.txt https://cdn.discordapp.com/attachments/829298026723016724/1054486079329275924/nutjump2-script.txt",
         "setup": "Start in the top wire in Bowsers, see video",
         "version": "1.0",
-        "notes": "Player 2: https://cdn.discordapp.com/attachments/829298026723016724/1054486079329275924/nutjump2-script.txt",
+        "notes": "",
         "date": "20200914"
     },
     {
