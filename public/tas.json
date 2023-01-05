@@ -1,5 +1,21 @@
 [
     {
+        "id": 106,
+        "name": "2P Any% - Left Side",
+        "kingdom": "Cap",
+        "time": "??",
+        "authors": [
+            "JoniKauf"
+        ],
+        "video": "https://video.twimg.com/ext_tw_video/1520834476431101952/pu/vid/1280x720/0rQB9LKrD1uymhDW.mp4",
+        "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1520834476431101952/pu/img/eMQkMOU5dLtQwx5d.jpg",
+        "script": "https://discord.com/channels/829256569354321951/829263133776412672/970400218375946280",
+        "setup": "Yuzu, Pause Scripts during loads, Start script during load",
+        "version": "1.0",
+        "notes": "Camera on highest sensitivity",
+        "date": "20220501"
+    },
+    {
         "id": 105,
         "name": "2P Any% - Shards Moon to Hariet",
         "kingdom": "Bowsers",
