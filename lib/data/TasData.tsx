@@ -9,7 +9,8 @@ let TasData = tasJSON.map(entry => {
         name: entry.name,
         kingdom: KingdomType[entry.kingdom.toUpperCase() as keyof typeof KingdomType],
         time: entry.time,
-        authors: entry.authors.map(author => AuthorData.find(data => data.name === author) ?? {name:author, icon:"https://via.placeholder.com/48x48"}),
+        // replacing spaces in names with &nbsp; to match filter for AuthorData
+        authors: entry.authors.map(author => AuthorData.find(data => data.name === author.replace(" ", "\u00a0")) ?? {name:author, icon:"https://via.placeholder.com/48x48"}),
         video: entry.video,
         thumbnail: entry.thumbnail,
         script: entry.script,
