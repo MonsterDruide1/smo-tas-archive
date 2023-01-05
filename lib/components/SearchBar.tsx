@@ -59,7 +59,13 @@ export class Filter {
         if (author != null) {
             results = results.filter(([entry, score]) => entry.authors.includes(author));
         }
-        return results;
+
+        if(this.text !== "") {
+            return results; // already sorted by score
+        } else {
+            // descending by date
+            return results.sort((a, b) => b[0].date.localeCompare(a[0].date));
+        }
     }
 }
 
