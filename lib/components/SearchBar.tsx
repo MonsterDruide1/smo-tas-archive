@@ -1,5 +1,6 @@
 import classNames from "classnames"
 import React, { useRef } from "react";
+import Image from "next/image";
 import styles from "../../styles/SearchBar.module.css"
 import TasEntry from "../data/TasEntry"
 import Fuse from "fuse.js"
@@ -216,7 +217,7 @@ export default class SearchBar extends React.Component<Props, State> {
                                     let element = suggestion as AuthorEntry;
                                     return <li key={element.name} className={className} onClick={() => this.onAuthorSuggestionClick(element)}>
                                             <div className={styles.author_item}>
-                                            <img className={styles.author_thumbnail} src={element.icon} alt={`Profile-icon of ${element.name}`} />
+                                            <Image width={32} height={32} className={styles.author_thumbnail} src={element.icon} alt={`Profile-icon of ${element.name}`} />
                                             <p className={styles.author_name}>{element.name}</p>
                                         </div>
                                     </li>
