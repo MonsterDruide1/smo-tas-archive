@@ -100,7 +100,7 @@ export default function TAS({ entry }: {entry: TasEntry}) {
                             </tr>
                             <tr>
                                 <td>Notes</td>
-                                <td><ReactMarkdown>{entry.notes == "" ? "-" : entry.notes}</ReactMarkdown></td>
+                                <td><ReactMarkdown>{entry.notes == "" ? "\\-" : entry.notes}</ReactMarkdown></td>
                             </tr>
                         </tbody>
                     </table>
