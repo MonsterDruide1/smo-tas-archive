@@ -5,7 +5,7 @@ let AuthorData = authorsJSON.map(entry => {
     return {
         // replacing spaces in names with &nbsp;
         name: entry.name.replace(" ", "\u00a0"),
-        icon: entry.avatar
+        icon: "/smo"+entry.image
     }
 }) as AuthorEntry[];
 export default AuthorData;

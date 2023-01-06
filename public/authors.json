@@ -1,102 +1,127 @@
 [
     {
-        "name":"Mars2030",
-        "avatar":"https://cdn.discordapp.com/avatars/271065054592499713/48668de70825878f53f14eef59f254ed.webp?size=128"
+        "name": "Mars2030",
+        "url": "https://cdn.discordapp.com/avatars/271065054592499713/48668de70825878f53f14eef59f254ed.webp",
+        "image": "/img/authors/Mars2030.webp"
     },
     {
-        "name":"Xiivler",
-        "avatar":"https://cdn.discordapp.com/avatars/356198622473486340/1dedfb04d3ee3730386db726648c200d.webp?size=128"
+        "name": "Xiivler",
+        "url": "https://cdn.discordapp.com/avatars/356198622473486340/1dedfb04d3ee3730386db726648c200d.webp",
+        "image": "/img/authors/Xiivler.webp"
     },
     {
-        "name":"Tiewarn",
-        "avatar":"https://cdn.discordapp.com/avatars/537071124304101386/785184216993103cdc59a29cce25747e.webp?size=128"
+        "name": "Tiewarn",
+        "url": "https://cdn.discordapp.com/avatars/537071124304101386/785184216993103cdc59a29cce25747e.webp",
+        "image": "/img/authors/Tiewarn.webp"
     },
     {
-        "name":"matthewpugs24",
-        "avatar":"https://www.speedrun.com/userasset/j0nvl798/image?v=722c8bf"
+        "name": "matthewpugs24",
+        "url": "https://www.speedrun.com/userasset/j0nvl798/image?v=722c8bf",
+        "image": "/img/authors/matthewpugs24.png"
     },
     {
-        "name":"CMFP",
-        "avatar":"https://cdn.discordapp.com/avatars/412723238926549006/c219ace1d2bd8277e2ff84108be9a224.webp?size=128"
+        "name": "CMFP",
+        "url": "https://cdn.discordapp.com/avatars/412723238926549006/c219ace1d2bd8277e2ff84108be9a224.webp",
+        "image": "/img/authors/CMFP.webp"
     },
     {
-        "name":"FT",
-        "avatar":"https://cdn.discordapp.com/avatars/402952721310941185/736e6f4bd8303351bce97ec7a99d6dd2.webp?size=128"
+        "name": "FT",
+        "url": "https://cdn.discordapp.com/avatars/402952721310941185/736e6f4bd8303351bce97ec7a99d6dd2.webp",
+        "image": "/img/authors/FT.webp"
     },
     {
-        "name":"Wallonice",
-        "avatar":"https://cdn.discordapp.com/avatars/628257195162861581/419d79e7539d5621c1180e30036a17bd.webp?size=128"
+        "name": "Wallonice",
+        "url": "https://cdn.discordapp.com/avatars/628257195162861581/419d79e7539d5621c1180e30036a17bd.webp",
+        "image": "/img/authors/Wallonice.webp"
     },
     {
-        "name":"Qflame",
-        "avatar":"https://cdn.discordapp.com/avatars/827208083720896564/c91be23c01b5a5ed6181ea00e7141c67.webp?size=128"
+        "name": "Qflame",
+        "url": "https://cdn.discordapp.com/avatars/827208083720896564/c91be23c01b5a5ed6181ea00e7141c67.webp",
+        "image": "/img/authors/Qflame.webp"
     },
     {
-        "name":"Dr. Agoti",
-        "avatar":"https://cdn.discordapp.com/avatars/551749586750930944/36aca454f493296f4dad713d44319aa1.webp?size=128"
+        "name": "Dr. Agoti",
+        "url": "https://cdn.discordapp.com/avatars/551749586750930944/36aca454f493296f4dad713d44319aa1.webp",
+        "image": "/img/authors/DrAgoti.webp"
     },
     {
-        "name":"Flavien",
-        "avatar":"https://cdn.discordapp.com/avatars/325963824945561610/a57efeb23b67820f5cee4b38cefef1ae.webp?size=128"
+        "name": "Flavien",
+        "url": "https://cdn.discordapp.com/avatars/325963824945561610/a57efeb23b67820f5cee4b38cefef1ae.webp",
+        "image": "/img/authors/Flavien.webp"
     },
     {
-        "name":"Jadefalke",
-        "avatar":"https://avatars.githubusercontent.com/u/79963380"
+        "name": "Jadefalke",
+        "url": "https://avatars.githubusercontent.com/u/79963380",
+        "image": "/img/authors/Jadefalke.png"
     },
     {
-        "name":"aspyn",
-        "avatar":"https://cdn.discordapp.com/attachments/927988891670171679/992104083706105946/unknown.png"
+        "name": "aspyn",
+        "url": "https://cdn.discordapp.com/attachments/927988891670171679/992104083706105946/unknown.png",
+        "image": "/img/authors/aspyn.png"
     },
     {
-        "name":"MFG",
-        "avatar":"https://cdn.discordapp.com/avatars/311972235965628416/e8cded4269c313339703b2bce3608564.webp?size=128"
+        "name": "MFG",
+        "url": "https://cdn.discordapp.com/avatars/311972235965628416/e8cded4269c313339703b2bce3608564.webp",
+        "image": "/img/authors/MFG.webp"
     },
     {
-        "name":"Mighty Owl",
-        "avatar":"https://cdn.discordapp.com/avatars/443463030697754624/1651c2a9549b0ff4cfd1b03238a7fb16.webp?size=128"
+        "name": "Mighty Owl",
+        "url": "https://cdn.discordapp.com/avatars/443463030697754624/1651c2a9549b0ff4cfd1b03238a7fb16.webp",
+        "image": "/img/authors/MightyOwl.webp"
     },
     {
-        "name":"GoodGoomba",
-        "avatar":"https://cdn.discordapp.com/avatars/574472382908203009/a7ff563f08b238b05439cdc6806d857b.webp?size=128"
+        "name": "GoodGoomba",
+        "url": "https://cdn.discordapp.com/avatars/574472382908203009/a7ff563f08b238b05439cdc6806d857b.webp",
+        "image": "/img/authors/GoodGoomba.webp"
     },
     {
-        "name":"Relaxmas",
-        "avatar":"https://cdn.discordapp.com/avatars/481614606691860520/c13430ccd6fce5554f9862d48f271d12.webp?size=128"
+        "name": "Relaxmas",
+        "url": "https://cdn.discordapp.com/avatars/481614606691860520/c13430ccd6fce5554f9862d48f271d12.webp",
+        "image": "/img/authors/Relaxmas.webp"
     },
     {
-        "name":"NiklYoshi",
-        "avatar":"https://cdn.discordapp.com/attachments/927988891670171679/1015299600988508311/a_da406c5ab5e1041883efc10eaf64771c.png"
+        "name": "NiklYoshi",
+        "url": "https://cdn.discordapp.com/attachments/927988891670171679/1015299600988508311/a_da406c5ab5e1041883efc10eaf64771c.png",
+        "image": "/img/authors/NiklYoshi.png"
     },
     {
-        "name":"Orolmë",
-        "avatar":"https://cdn.discordapp.com/avatars/102499350684393472/1fbcd88b4b5e7d9e1a23e10d809a88d4.webp?size=128"
+        "name": "Orolmë",
+        "url": "https://cdn.discordapp.com/avatars/102499350684393472/1fbcd88b4b5e7d9e1a23e10d809a88d4.webp",
+        "image": "/img/authors/Orolme.webp"
     },
     {
-        "name":"JoniKauf",
-        "avatar":"https://cdn.discordapp.com/avatars/679564566769827841/5cc9a6834a17c799b5b0a064c4f87ac2.webp?size=128"
+        "name": "JoniKauf",
+        "url": "https://cdn.discordapp.com/avatars/679564566769827841/5cc9a6834a17c799b5b0a064c4f87ac2.webp",
+        "image": "/img/authors/JoniKauf.webp"
     },
     {
-        "name":"Sknoll18",
-        "avatar":"https://cdn.discordapp.com/avatars/474352357401165834/f16a43975693bfca58fd0e92e52d9280.webp?size=128"
+        "name": "Sknoll18",
+        "url": "https://cdn.discordapp.com/avatars/474352357401165834/f16a43975693bfca58fd0e92e52d9280.webp",
+        "image": "/img/authors/Sknoll18.webp"
     },
     {
-        "name":"CheeseStar",
-        "avatar":"https://cdn.discordapp.com/avatars/505169436907405337/aa1e0864eb294adcb127bc7b009b8f10.webp?size=128"
+        "name": "CheeseStar",
+        "url": "https://cdn.discordapp.com/avatars/505169436907405337/aa1e0864eb294adcb127bc7b009b8f10.webp",
+        "image": "/img/authors/CheeseStar.webp"
     },
     {
-        "name":"Racso79",
-        "avatar":"https://cdn.discordapp.com/avatars/663101049669943350/df6ba96328a003c2d8f2cfe24b3658b4.webp?size=128"
+        "name": "Racso79",
+        "url": "https://cdn.discordapp.com/avatars/663101049669943350/df6ba96328a003c2d8f2cfe24b3658b4.webp",
+        "image": "/img/authors/Racso79.webp"
     },
     {
-        "name":"arun",
-        "avatar":"https://cdn.discordapp.com/avatars/503622939573223424/0a0db765616d8ee0c9e1a723da09e815.webp?size=128"
+        "name": "arun",
+        "url": "https://cdn.discordapp.com/avatars/503622939573223424/0a0db765616d8ee0c9e1a723da09e815.webp",
+        "image": "/img/authors/arun.webp"
     },
     {
-        "name":"PlacidMink",
-        "avatar":"https://cdn.discordapp.com/avatars/723013957756911711/c2a14be4229ae3216d46514334da40b4.webp?size=128"
+        "name": "PlacidMink",
+        "url": "https://cdn.discordapp.com/avatars/723013957756911711/c2a14be4229ae3216d46514334da40b4.webp",
+        "image": "/img/authors/PlacidMink.webp"
     },
     {
-        "name":"Pinkatie",
-        "avatar":"https://yt3.ggpht.com/CX1R_j-FMpnCzKl9OYX1L5pIuwFkfS1WH7_TK6S6Qvr8U-AF3Dihzg4_s_7xW1sHso1DvVHmzg=s88-c-k-c0x00ffffff-no-rj"
+        "name": "Pinkatie",
+        "url": "https://yt3.ggpht.com/CX1R_j-FMpnCzKl9OYX1L5pIuwFkfS1WH7_TK6S6Qvr8U-AF3Dihzg4_s_7xW1sHso1DvVHmzg=s88-c-k-c0x00ffffff-no-rj",
+        "image": "/img/authors/Pinkatie.jpg"
     }
 ]
