@@ -19,9 +19,12 @@
     max-height: 80%;
 }
 
-.authorTagImg {
-    max-height: 80%;
+.authorTagImgWrapper {
+    height: 80%;
+    aspect-ratio: 1/1;
+    position: relative;
 }
+.authorTagImg {}
 .authorTagText {
     margin: 0px;
     text-overflow: ellipsis;
