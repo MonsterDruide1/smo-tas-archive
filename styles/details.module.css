@@ -83,16 +83,12 @@
 
 .author_item {
     align-items: center;
-    display:flex;
+    display: flex;
     justify-content: flex-start;
+    gap: 5px;
     cursor: pointer;
 }
-.author_thumbnail {
-    max-width: 32px;
-    max-height: 32px;
-    margin-right: 5px;
-    float: left;
-}
+.author_thumbnail {}
 .author_name {
     margin: 0px;
 }

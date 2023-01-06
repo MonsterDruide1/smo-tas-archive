@@ -72,7 +72,7 @@ export default function TAS({ entry }: {entry: TasEntry}) {
                                 <td>
                                     {entry.authors.map((element, index) => {
                                         return <div className={styles.author_item} key={element.name} onClick={() => {filterBy("", null, element)}}>
-                                            <img className={styles.author_thumbnail} src={element.icon} alt={`Profile-icon of ${element.name}`} />
+                                            <Image className={styles.author_thumbnail} src={element.icon} alt={`Profile-icon of ${element.name}`} width={32} height={32} />
                                             <p className={styles.author_name}>{element.name}</p>
                                         </div>
                                     })}
