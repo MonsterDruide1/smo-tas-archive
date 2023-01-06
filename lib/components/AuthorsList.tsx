@@ -19,7 +19,7 @@ export default function AuthorsList(props: Props) {
             <p className={styles.names}>{props.authors.map(author => author.name).join(", ")}</p>
             <div className={styles.thumbnails}>
                 {props.authors.map(author => (
-                    <img key={author.name} className={styles.thumbnail} style={clickable ? {zIndex: 2, cursor: "pointer"} : {}} src={author.icon} alt={alt_text} onClick={clickable ? () => props.onClick?.(author) : undefined}/>
+                    <Image key={author.name} width={32} height={32} className={styles.thumbnail} style={clickable ? {zIndex: 2, cursor: "pointer"} : {}} src={author.icon} alt={alt_text} onClick={clickable ? () => props.onClick?.(author) : undefined}/>
                 ))}
             </div>
         </span>

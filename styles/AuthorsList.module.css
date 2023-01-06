@@ -25,10 +25,7 @@
     flex-wrap: wrap;
     justify-content: flex-end;
 }
-.thumbnail {
-    max-width: 32px;
-    max-height: 32px;
-}
+.thumbnail {}
 
 .names {
     margin: 0px;
