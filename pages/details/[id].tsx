@@ -96,7 +96,7 @@ export default function TAS({ entry }: {entry: TasEntry}) {
                             </tr>
                             <tr>
                                 <td>Published</td>
-                                <td suppressHydrationWarning>{new Date(entry.date.slice(0,4)+"-"+entry.date.slice(4,6)+"-"+entry.date.slice(6)).toLocaleDateString()}</td>
+                                <td suppressHydrationWarning>{new Date(entry.date.slice(0,4)+"-"+entry.date.slice(4,6)+"-"+entry.date.slice(6)).toLocaleDateString(undefined, {timeZone: 'UTC'})}</td>
                             </tr>
                             <tr>
                                 <td>Notes</td>
