@@ -1,5 +1,38 @@
 [
     {
+        "id": 108,
+        "name": "Ruined Kingdom to Bowsers Kingdom",
+        "kingdom": "Bowsers",
+        "time": "??",
+        "authors": [
+            "SurprisedPika"
+        ],
+        "video": "https://youtu.be/6Ov_sOobILM",
+        "thumbnail": "https://i.ytimg.com/vi/6Ov_sOobILM/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1RzMe6yokgmwGvBoGSa7X2qtmTyVKuNtR/view?usp=sharing",
+        "setup": "start script during reload of the file",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230108"
+    },
+    {
+        "id": 107,
+        "name": "Ogre Moon to Shards Moon",
+        "kingdom": "Bowsers",
+        "time": "??",
+        "authors": [
+            "Mighty Owl",
+            "SurprisedPika"
+        ],
+        "video": "https://youtu.be/1J1sC9Xk46M",
+        "thumbnail": "https://i.ytimg.com/vi/1J1sC9Xk46M/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1061583413980692541/shards.txt",
+        "setup": "go to bowsers kingdom, kill ogre and spawn moon, then teleport to: X: -22700, Y: 7360, Z: 17550, then run script",
+        "version": "1.0",
+        "notes": "Camera on highest sensitivity",
+        "date": "20230108"
+    },
+    {
         "id": 106,
         "name": "2P Any% - Left Side",
         "kingdom": "Cap",
