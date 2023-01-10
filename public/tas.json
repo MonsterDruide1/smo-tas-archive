@@ -1,5 +1,22 @@
 [
     {
+        "id": 109,
+        "name": "2P Any% - Bowser Bunnies",
+        "kingdom": "Bowsers",
+        "time": "??",
+        "authors": [
+            "Orolmë",
+            "Xiivler"
+        ],
+        "video": "https://youtu.be/raKaQMoMynQ",
+        "thumbnail": "https://i.ytimg.com/vi/raKaQMoMynQ/mqdefault.jpg",
+        "script": "https://drive.google.com/drive/folders/1B3Wggs6nCNSUHq8bigebOgI7CTxNMYtM",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230110"
+    },
+    {
         "id": 108,
         "name": "Ruined Kingdom to Bowsers Kingdom",
         "kingdom": "Bowsers",
