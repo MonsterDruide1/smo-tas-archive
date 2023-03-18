@@ -1,5 +1,71 @@
 [
     {
+        "id": 113,
+        "name": "Frogless v2",
+        "kingdom": "Cap",
+        "time": "??",
+        "authors": [
+            "Mighty Owl",
+            "Mars2030"
+        ],
+        "video": "https://youtu.be/GBpvDMU8s9A",
+        "thumbnail": "https://i.ytimg.com/vi/GBpvDMU8s9A/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1086359347958919178/frog.txt",
+        "setup": "`go CapWorldTowerStage 1 Ex true`",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230317"
+    },
+    {
+        "id": 112,
+        "name": "Volcano Cave v1",
+        "kingdom": "Luncheon",
+        "time": "??",
+        "authors": [
+            "avoset"
+        ],
+        "video": "https://video.twimg.com/ext_tw_video/1636482815742058498/pu/vid/1280x720/RBxMmxUBhzjQNszo.mp4",
+        "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1636482815742058498/pu/img/MYubxNFtfMtoV1jz.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1086053134842994728/lavaliftscript.txt",
+        "setup": "`go CapAppearLavaLiftExStage 2 LavaLiftEx true`",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230316"
+    },
+    {
+        "id": 111,
+        "name": "Seaside Sphinx Room v2",
+        "kingdom": "Seaside",
+        "time": "??",
+        "authors": [
+            "Min Tee",
+            "Wallonice"
+        ],
+        "video": "https://youtu.be/B1-UZF3JKr0",
+        "thumbnail": "https://i.ytimg.com/vi/B1-UZF3JKr0/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1084464626244276254/Sphinx_Room_to_moon_dump.txt",
+        "setup": " start in the Sphinx Room and then run `go SeaWorldSecretStage 4 TreasureEventWorldSea true`",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230312"
+    },
+    {
+        "id": 110,
+        "name": "RoboBrood Fight v2",
+        "kingdom": "Bowsers",
+        "time": "??",
+        "authors": [
+            "Mars2030"
+        ],
+        "video": "https://youtu.be/YDlJRUxO2Jo",
+        "thumbnail": "https://i.ytimg.com/vi/YDlJRUxO2Jo/mqdefault.jpg",
+        "script": "??",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20201020"
+    },
+    {
         "id": 109,
         "name": "2P Any% - Bowser Bunnies",
         "kingdom": "Bowsers",

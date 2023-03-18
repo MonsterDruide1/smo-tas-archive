@@ -128,5 +128,15 @@
         "name": "SurprisedPika",
         "url": "https://cdn.discordapp.com/avatars/298527618871984138/069592d77320302b6035f8df76adbfad.webp",
         "image": "/img/authors/SurprisedPika.webp"
+    },
+    {
+        "name": "Min Tee",
+        "url": "https://cdn.discordapp.com/avatars/718407564932415488/86664ee96cad7afa9952706799f2d15b.webp",
+        "image": "/img/authors/MinTee.webp"
+    },
+    {
+        "name": "avoset",
+        "url": "https://cdn.discordapp.com/avatars/716299185082728469/7284dbb1fa5aca34530614de840c8fbc.webp",
+        "image": "/img/authors/avoset.webp"
     }
 ]
