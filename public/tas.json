@@ -1,5 +1,21 @@
 [
     {
+        "id": 115,
+        "name": "Cloud Boost Glitch",
+        "kingdom": "Cloud",
+        "time": "??",
+        "authors": [
+            "Tiewarn"
+        ],
+        "video": "https://youtu.be/qA4oPaTztTA",
+        "thumbnail": "https://i.ytimg.com/vi/qA4oPaTztTA/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1089922232832229396/script0-1.txt",
+        "setup": "Hover on \"Skip Cutscene\" for the cloud stage intro, then start the script",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230327"
+    },
+    {
         "id": 114,
         "name": "Girder Sandwich as Goomba",
         "kingdom": "Metro",
