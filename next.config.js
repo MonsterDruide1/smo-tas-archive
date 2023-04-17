@@ -7,6 +7,7 @@ const nextConfig = {
   images: {
     path: `/smo/_next/image`,
   },
+  output: 'standalone',
 }
 
 module.exports = nextConfig
