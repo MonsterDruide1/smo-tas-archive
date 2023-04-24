@@ -1,5 +1,53 @@
 [
     {
+        "id": 118,
+        "name": "Snow Koopa Trace-Walking Room",
+        "kingdom": "Snow",
+        "time": "??",
+        "authors": [
+            "明日の主役"
+        ],
+        "video": "https://youtu.be/DvxNLtKfDtk",
+        "thumbnail": "https://i.ytimg.com/vi/DvxNLtKfDtk/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1099677267787010088/TraceWalking.txt",
+        "setup": "Enter the room once, exit, then start the script without moving.",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230423"
+    },
+    {
+        "id": 117,
+        "name": "Cascade KFR",
+        "kingdom": "Cascade",
+        "time": "10.73",
+        "authors": [
+            "明日の主役"
+        ],
+        "video": "https://youtu.be/K2EFxYWEXSY",
+        "thumbnail": "https://i.ytimg.com/vi/K2EFxYWEXSY/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1093249719700045864/CascadeKFR2.txt",
+        "setup": "While in a run, exit the pause menu and then start the script.",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230405"
+    },
+    {
+        "id": 116,
+        "name": "Cloud Mashing",
+        "kingdom": "Cloud",
+        "time": "??",
+        "authors": [
+            "Min Tee"
+        ],
+        "video": "https://youtu.be/Jf3xARmUOOI",
+        "thumbnail": "https://i.ytimg.com/vi/Jf3xARmUOOI/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1092730112224546890/Cloud_mashing.txt",
+        "setup": "hover above the odyssey in the map then start script",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230404"
+    },
+    {
         "id": 115,
         "name": "Cloud Boost Glitch",
         "kingdom": "Cloud",
