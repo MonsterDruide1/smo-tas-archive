@@ -1,5 +1,21 @@
 [
     {
+        "id": 119,
+        "name": "FenceLiftStage",
+        "kingdom": "Luncheon",
+        "time": "??",
+        "authors": [
+            "明日の主役"
+        ],
+        "video": "https://youtu.be/m5AKUP6m8rk",
+        "thumbnail": "https://i.ytimg.com/vi/m5AKUP6m8rk/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1103274680850329642/FenceLift.txt",
+        "setup": "`go LavaWorldFenceLiftExStage 1 FenceLiftEx true`",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230503"
+    },
+    {
         "id": 118,
         "name": "Snow Koopa Trace-Walking Room",
         "kingdom": "Snow",
