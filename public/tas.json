@@ -1,5 +1,21 @@
 [
     {
+        "id": 120,
+        "name": "Moon Kingdom Bowser Fight",
+        "kingdom": "Moon",
+        "time": "1:18.333",
+        "authors": [
+            "PlacidMink"
+        ],
+        "video": "https://youtu.be/dTwFBj_yi58",
+        "thumbnail": "https://i.ytimg.com/vi/dTwFBj_yi58/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1qSRLQXxzPlYlC8RIQqGBelWhkMMnIu0b/view?usp=sharing",
+        "setup": " Open the door in the chapel and start script when you gain control of mario (make sure you have real cutscenes)",
+        "version": "1.0",
+        "notes": "Might not work if you get a bad load, explanation: [https://docs.google.com/document/d/1tQEMD9YPmKYK9y8IDeKzCwZZwT-kkSh94AhFDN9qFjU/edit?usp=sharing](https://docs.google.com/document/d/1tQEMD9YPmKYK9y8IDeKzCwZZwT-kkSh94AhFDN9qFjU/edit?usp=sharing)",
+        "date": "20230531"
+    },
+    {
         "id": 119,
         "name": "FenceLiftStage",
         "kingdom": "Luncheon",
