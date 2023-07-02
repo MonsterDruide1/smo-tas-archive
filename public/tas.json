@@ -1,5 +1,21 @@
 [
     {
+        "id": 121,
+        "name": "Enter Fight -> Way to Escape (bowser fight v2)",
+        "kingdom": "Moon",
+        "time": "1:21.900",
+        "authors": [
+            "PlacidMink"
+        ],
+        "video": "https://youtu.be/rcGmkC3JGdk",
+        "thumbnail": "https://i.ytimg.com/vi/rcGmkC3JGdk/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1JCpgTnZJ0nc5RYIWStwYcmR8Rs8VMopK/view?usp=sharing",
+        "setup": " Open the door in the chapel and start script when you gain control of mario (make sure you have real cutscenes)",
+        "version": "1.0",
+        "notes": "-9 frames to previous TAS, explanation: [https://docs.google.com/document/d/1RGP5kXIHC00U2sAG3el4lS6fvWlHoNzOd9v2_DKuOAI/edit?usp=sharing](https://docs.google.com/document/d/1RGP5kXIHC00U2sAG3el4lS6fvWlHoNzOd9v2_DKuOAI/edit?usp=sharing)",
+        "date": "20230612"
+    },
+    {
         "id": 120,
         "name": "Moon Kingdom Bowser Fight",
         "kingdom": "Moon",
