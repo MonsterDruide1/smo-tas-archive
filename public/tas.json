@@ -1,5 +1,21 @@
 [
     {
+        "id": 122,
+        "name": "Snow Toad Talk",
+        "kingdom": "Snow",
+        "time": "??",
+        "authors": [
+            "pigeon"
+        ],
+        "video": "https://youtu.be/a6dqopel38c",
+        "thumbnail": "https://i.ytimg.com/vi/a6dqopel38c/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829298026723016724/1120097822096752712/script0-1.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "Tied BTT",
+        "date": "20230618"
+    },
+    {
         "id": 121,
         "name": "Enter Fight -> Way to Escape (bowser fight v2)",
         "kingdom": "Moon",

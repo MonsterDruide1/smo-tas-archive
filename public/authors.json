@@ -143,5 +143,10 @@
         "name": "明日の主役",
         "url": "https://cdn.discordapp.com/avatars/886212588994711612/a2acaaeb83e5555812e4a3dbb70c7837.webp",
         "image": "/img/authors/chargeruser.webp"
+    },
+    {
+        "name": "pigeon",
+        "url": "https://cdn.discordapp.com/avatars/779201184078495785/50f48ac074dd6b056ef6aa2c01a1e2e9.webp",
+        "image": "/img/authors/pigeon.webp"
     }
 ]
