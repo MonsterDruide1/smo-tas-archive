@@ -148,5 +148,10 @@
         "name": "pigeon",
         "url": "https://cdn.discordapp.com/avatars/779201184078495785/50f48ac074dd6b056ef6aa2c01a1e2e9.webp",
         "image": "/img/authors/pigeon.webp"
+    },
+    {
+        "name": "Gamaro",
+        "url": "https://cdn.discordapp.com/avatars/713913055553126493/138bc37c2de72af063cc738007a412da.webp",
+        "image": "/img/authors/gamaro.webp"
     }
 ]

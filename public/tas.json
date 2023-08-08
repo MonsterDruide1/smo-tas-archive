@@ -1,5 +1,101 @@
 [
     {
+        "id": 128,
+        "name": "Rango Fight",
+        "kingdom": "Lake",
+        "time": "??",
+        "authors": [
+            "明日の主役"
+        ],
+        "video": "https://youtu.be/Lj2LOLa3Nj8",
+        "thumbnail": "https://i.ytimg.com/vi/Lj2LOLa3Nj8/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1134980481797075024/Rango.txt",
+        "setup": "Fly to the flag and run the script when the screen is brightly lit",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230731"
+    },
+    {
+        "id": 127,
+        "name": "Cap KFR",
+        "kingdom": "Cap",
+        "time": "18.85",
+        "authors": [
+            "Gamaro"
+        ],
+        "video": "https://youtu.be/5NsWYnScQ2k",
+        "thumbnail": "https://i.ytimg.com/vi/5NsWYnScQ2k/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1134341452881727498/CapKFR4.txt",
+        "setup": "Run the script while in the KFR. It will automatically restart the race.",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230728"
+    },
+    {
+        "id": 126,
+        "name": "Sinking Island",
+        "kingdom": "Seaside",
+        "time": "??",
+        "authors": [
+            "avoset"
+        ],
+        "video": "https://cdn.discordapp.com/attachments/829263133776412672/1132062628387242004/2023-07-21_22-48-46.mp4",
+        "thumbnail": "https://cdn.discordapp.com/attachments/973536233563250688/1138172995320414350/image.png",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1132062629192544468/sinkingislandv1.1.txt",
+        "setup": "`go SenobiTowerExStage 1 SeaWorldEX3a true`",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230721"
+    },
+    {
+        "id": 125,
+        "name": "Chests in SM64 Costume Room",
+        "kingdom": "Mushroom",
+        "time": "??",
+        "authors": [
+            "avoset"
+        ],
+        "video": "https://cdn.discordapp.com/attachments/829298026723016724/1130624254514319471/sm64_TAS.mp4",
+        "thumbnail": "https://cdn.discordapp.com/attachments/973536233563250688/1138171516509487215/image.png",
+        "script": "https://cdn.discordapp.com/attachments/829298026723016724/1130543113711124571/sm64roomv1.txt",
+        "setup": "`go PeachWorldCostumeStage 2 CostumeEventWorldPeach true`",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230717"
+    },
+    {
+        "id": 124,
+        "name": "Rotating Maze v1",
+        "kingdom": "Metro",
+        "time": "??",
+        "authors": [
+            "avoset"
+        ],
+        "video": "https://cdn.discordapp.com/attachments/829298026723016724/1130143572528738324/rotatingmazev1realactualnotclickbait.mp4",
+        "thumbnail": "https://cdn.discordapp.com/attachments/973536233563250688/1138170623420534858/image.png",
+        "script": "https://cdn.discordapp.com/attachments/829298026723016724/1130125075656482876/rotatingmazev1realactualnotclickbait.txt",
+        "setup": "`go CapRotatePackunExStage 2 kaitendokan true`",
+        "version": "1.0",
+        "notes": "Might be possible to get a cappy clip without ledge grabbing, but that's annoyingly precise",
+        "date": "20230716"
+    },
+    {
+        "id": 123,
+        "name": "Poison Room Crossing Captureless",
+        "kingdom": "Cap",
+        "time": "??",
+        "authors": [
+            "PlacidMink"
+        ],
+        "video": "https://youtu.be/vFDtl_UviJA",
+        "thumbnail": "https://i.ytimg.com/vi/vFDtl_UviJA/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1iHo5rYWs-gkGrlHb0NGiFaNz-r--ZJze/view?usp=sharing",
+        "setup": "Leave the poison room in cap kingdom",
+        "version": "1.0",
+        "notes": "With the use of poison rolls, which allow mario to roll and longjump off of upward sloped poison by diving into it, it is possible to jump the gap between the starting and ending areas of the poison tide sub-area. This allows both the \"Skimming the Poison Tide\" and \"Slipping Through the Poison Tide\" moons to be collected without capturing a paragoomba, bringing the minimum captures maximum moon count from 516 to 518. This is the first time a new moon has been proven for minimum captures since October of 2021!",
+        "date": "20230710"
+    },
+    {
         "id": 122,
         "name": "Snow Toad Talk",
         "kingdom": "Snow",
