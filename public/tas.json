@@ -1,5 +1,86 @@
 [
     {
+        "id": 132,
+        "name": "2P Frogless",
+        "kingdom": "Cap",
+        "time": "16.767",
+        "authors": [
+            "PlacidMink"
+        ],
+        "video": "https://youtu.be/vYPAUKq66Zc",
+        "thumbnail": "https://i.ytimg.com/vi/vYPAUKq66Zc/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1uNsaJcae0UtobVxFqu51Whtsf4YNqqnL/view?usp=sharing",
+        "setup": "Be on a save file that hasn't opened the door in the room yet",
+        "version": "1.0",
+        "notes": "2p Cap Kingdom BTT+TAS is only 15 frames away from being a 2:0x now",
+        "date": "20231220"
+    },
+    {
+        "id": 131,
+        "name": "2P City Hall Warp -> Enter People Room",
+        "kingdom": "Metro",
+        "time": "40.183",
+        "authors": [
+            "PlacidMink"
+        ],
+        "video": "https://youtu.be/6xhocd0YK-g",
+        "thumbnail": "https://i.ytimg.com/vi/6xhocd0YK-g/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1EgGwaMhbe8632Dw4FCF6oGoa-TCyVrc2/view?usp=drive_link",
+        "setup": "Hover over City Hall checkpoint",
+        "version": "1.0",
+        "notes": "This loses a frame to 1p TAS from cafe moon -> enter people room, but I couldn't figure out how to save that frame.",
+        "date": "20231119"
+    },
+    {
+        "id": 130,
+        "name": "2P Wire Shoot -> Enter Bullet Billding (Metro reroute)",
+        "kingdom": "Metro",
+        "time": "1:03.433",
+        "authors": [
+            "PlacidMink"
+        ],
+        "video": "https://youtu.be/MqSoInEn9z4",
+        "thumbnail": "https://i.ytimg.com/vi/MqSoInEn9z4/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1cXm7Q46aXRe82Up6Dq48UJN9eNyFsWb-/view?usp=drive_link",
+        "setup": "Capture the wire by the Odyssey",
+        "version": "1.0",
+        "notes": "The video has manual DSTA, but this can be cut from the time as NSCA will be used. This route saves over 5 seconds to BTT and opens the way for more improvements such as girder + wiggler.",
+        "date": "20231118"
+    },
+    {
+        "id": 129,
+        "name": "Snow Dram v2",
+        "kingdom": "Snow",
+        "time": "??",
+        "authors": [
+            "Mighty Owl"
+        ],
+        "video": "https://youtu.be/0fI6HHLJ9O8",
+        "thumbnail": "https://i.ytimg.com/vi/0fI6HHLJ9O8/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1164240572278636704/snowdram.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20231018"
+    },
+    {
+        "id": 129,
+        "name": "Forks v2",
+        "kingdom": "Luncheon",
+        "time": "??",
+        "authors": [
+            "Mighty Owl",
+            "FT"
+        ],
+        "video": "https://youtu.be/-tGjYReffps",
+        "thumbnail": "https://i.ytimg.com/vi/-tGjYReffps/mqdefault.jpg",
+        "script": "https://cdn.discordapp.com/attachments/829263133776412672/1157036315288801372/forks.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20230928"
+    },
+    {
         "id": 128,
         "name": "Rango Fight",
         "kingdom": "Lake",
