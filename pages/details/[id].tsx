@@ -14,7 +14,7 @@ import AuthorsList from '../../lib/components/AuthorsList'
 import { Filter } from "../../lib/components/SearchBar"
 import { KingdomType } from '../../lib/data/Kingdom';
 import AuthorEntry from '../../lib/data/AuthorEntry';
-import { ReactMarkdown } from 'react-markdown/lib/react-markdown'
+import Markdown from 'react-markdown'
 
 export default function TAS({ entry }: {entry: TasEntry}) {
     let title = `TAS-Segment archive - ${entry.name}`
@@ -88,7 +88,7 @@ export default function TAS({ entry }: {entry: TasEntry}) {
                             </tr>
                             <tr>
                                 <td>Setup</td>
-                                <td><ReactMarkdown>{entry.setup}</ReactMarkdown></td>
+                                <td><Markdown>{entry.setup}</Markdown></td>
                             </tr>
                             <tr>
                                 <td>Version</td>
@@ -100,7 +100,7 @@ export default function TAS({ entry }: {entry: TasEntry}) {
                             </tr>
                             <tr>
                                 <td>Notes</td>
-                                <td><ReactMarkdown>{entry.notes == "" ? "\\-" : entry.notes}</ReactMarkdown></td>
+                                <td><Markdown>{entry.notes == "" ? "\\-" : entry.notes}</Markdown></td>
                             </tr>
                         </tbody>
                     </table>
